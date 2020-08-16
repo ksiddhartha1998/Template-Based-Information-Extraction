@@ -1,0 +1,197 @@
+{
+    "document": "UTD.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1969, the founders bequeathed SCAS to the state of Texas, officially creating The University of Texas Texas at Dallas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The UT Dallas founders, Eugene McDermott, Cecil Howard Green and J. Erik Jonsson, purchased Geophysical Service Incorporated (GSI) on December 6, 1941, the day before the attack on Pearl Harbor."
+            ],
+            "arguments": {
+                "1": "The UT Dallas founders",
+                "2": "Geophysical Service Incorporated",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Land for the center was acquired by Jonsson, McDermott, and Green in Richardson in 1962 and the first facility, the Laboratory of Earth and Planetary Science (later named the Founders Building), opened on the grounds of the present-day UTD campus in 1964. the Graduate Research Center of the Southwest was renamed the Southwest Center for Advanced Studies (SCAS) in 1967, and in 1969 the founders transferred the land and assets of SCAS to the State of Texas."
+            ],
+            "arguments": {
+                "1": "Jonsson",
+                "2": "Land",
+                "3": "",
+                "4": "",
+                "5": "SCAS"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Robert H. Rutford, an Antarctic explorer recognized with the naming of the Rutford Ice Stream and Mount Rutford in Antarctica, became the second president of UT Dallas in May 1982."
+            ],
+            "arguments": {
+                "1": "Robert H. Rutford",
+                "2": "the second president",
+                "3": "UT Dallas",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Franklyn Jenifer became the third president of UT Dallas in 1994 and served until 2005."
+            ],
+            "arguments": {
+                "1": "Franklyn Jenifer",
+                "2": "the third president",
+                "3": "UT Dallas",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In June 2005, David E. Daniel became the fourth president of the University of Texas at Dallas and had served on the faculty at UT Austin and was the Dean of Engineering at the University of Illinois from 2001 to 2005."
+            ],
+            "arguments": {
+                "1": "David E. Daniel",
+                "2": "the fourth president",
+                "3": "Dallas;the University of Texas",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the UTD's program in Geography and Geospatial Sciences was ranked 16th nationally and top 1 in Texas by Academic Analytics of Stony Brook, N.Y."
+            ],
+            "arguments": {
+                "1": "Stony Brook",
+                "2": "N.Y."
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The Alan G. MacDiarmid NanoTech Institute was established in 2001 when Ray Baughman, a pioneering nanotechnologist, became the Robert A. Welch Distinguished Chair in Chemistry and director of the university's NanoTech Institute."
+            ],
+            "arguments": {
+                "1": "Ray Baughman",
+                "2": "director",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The main campus is near the Richardson, Texas, Telecom Corridor, 18 miles (29 km) north of downtown Dallas, on the boundary of Dallas and Collin counties."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UT Dallas owns generally contiguous land in Richardson, Texas consisting of approximately 465 acres (1.88 km2) for campus development and another 265 acres (1.07 km2) adjacent to the campus."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "UT Dallas owns generally contiguous land in Richardson, Texas consisting of approximately 465 acres (1.88 km2) for campus development and another 265 acres (1.07 km2) adjacent to the campus."
+            ],
+            "arguments": {
+                "1": "UT Dallas",
+                "2": "generally contiguous land",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The city of Richardson, Texas passed a bond election on May 8, 2010, which allocated $2.8 million in funding for a UT Dallas loop road to connect the roads around campus."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For the design UT Dallas chose Studios Architecturethe firm that designed Google Headquarters in Mountain View, California."
+            ],
+            "arguments": {
+                "1": "Mountain View",
+                "2": "California"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The University of Arkansas at Little Rock's, William H. Bowen School of Law was host to the 32 teams."
+            ],
+            "arguments": {
+                "1": "William H. Bowen School of Law",
+                "2": "host",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "UT Dallas Moot Court debate team placed first overall in the regional competition at the American Collegiate Moot Court Association National Tournament, hosted January 2012 at Chapman University in Orange, California."
+            ],
+            "arguments": {
+                "1": "Orange",
+                "2": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Buildings 137, previously known as the Waterview Park Apartments, were owned by the Utley Foundation and purchased by UTD on July 1, 2013."
+            ],
+            "arguments": {
+                "1": "UTD",
+                "2": "Buildings",
+                "3": "",
+                "4": "137",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Having 8 new team players as starters and only 3 veterans, the Comets led by top goal scorers Kevin White from Houston and Mihai Cotet from Braila, Romania led the team to its second ASC Tournament title in history."
+            ],
+            "arguments": {
+                "1": "Braila",
+                "2": "Romania"
+            }
+        }
+    ]
+}

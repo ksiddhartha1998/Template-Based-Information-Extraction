@@ -1,0 +1,770 @@
+{
+    "document": "Walmart.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Headquartered in Bentonville, Arkansas, the company was founded by Sam Walton in 1962 and incorporated on October 31, 1969. formerly Wal-Mart Stores, Inc.) also owns and operates Sam's Club retail warehouses."
+            ],
+            "arguments": {
+                "1": "Bentonville",
+                "2": "Arkansas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Walmart has wholly owned operations in Argentina, Chile, Canada, and South Africa."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "operations",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Sam Walton's heirs own over 50 percent of Walmart through their holding company, Walton Enterprises, and through their individual holdings."
+            ],
+            "arguments": {
+                "1": "Sam Walton's heirs",
+                "2": "over 50 percent",
+                "3": "",
+                "4": "",
+                "5": "Walmart"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "By 1988, Walmart was the most profitable retailer in the U.S., and by October 1989, Walmart had become the largest in terms of revenue."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "the most profitable retailer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A Walmart in York, Pennsylvania opened in October 1990: the first main store in the Northeast."
+            ],
+            "arguments": {
+                "1": "York",
+                "2": "Pennsylvania"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1945, businessman and former J. C. Penney employee Sam Walton bought a branch of the Ben Franklin stores from the Butler Brothers."
+            ],
+            "arguments": {
+                "1": "businessman",
+                "2": "a branch",
+                "3": "",
+                "4": "",
+                "5": "the Butler Brothers"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On July 2, 1962, Walton opened the first Walmart Discount City store at 719 W. Walnut Street in Rogers, Arkansas."
+            ],
+            "arguments": {
+                "1": "Rogers",
+                "2": "Arkansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1968, it opened its first stores outside Arkansas, in Sikeston, Missouri and Claremore, Oklahoma."
+            ],
+            "arguments": {
+                "1": "Arkansas",
+                "2": "Oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The same year, the company opened a home office and first distribution center in Bentonville, Arkansas."
+            ],
+            "arguments": {
+                "1": "Bentonville",
+                "2": "Arkansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By this time, Walmart was operating in five states: Arkansas, Kansas, Louisiana, Missouri, and Oklahoma; Walmart entered Tennessee in 1973 and Kentucky and Mississippi in 1974."
+            ],
+            "arguments": {
+                "1": "Arkansas",
+                "2": "Kansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By this time, Walmart was operating in five states: Arkansas, Kansas, Louisiana, Missouri, and Oklahoma; Walmart entered Tennessee in 1973 and Kentucky and Mississippi in 1974."
+            ],
+            "arguments": {
+                "1": "Tennessee",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By this time, Walmart was operating in five states: Arkansas, Kansas, Louisiana, Missouri, and Oklahoma; Walmart entered Tennessee in 1973 and Kentucky and Mississippi in 1974."
+            ],
+            "arguments": {
+                "1": "Arkansas",
+                "2": "Oklahoma"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "By 1990, Walmart became the largest U.S. retailer by revenue."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "the largest U.S. retailer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 2000, H. Lee Scott became Walmart's President and CEO as the company's sales increased to $165 billion."
+            ],
+            "arguments": {
+                "1": "H. Lee Scott",
+                "2": "Walmart's President;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In this time, Walmart also became the biggest seller of organic milk and the biggest buyer of organic cotton in the world, while reducing packaging and energy costs."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "the biggest buyer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As part of the initiative, the company launched a new store in Plano, Texas that included high-end electronics, jewelry, expensive wines and a sushi bar."
+            ],
+            "arguments": {
+                "1": "Plano",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The initial test was in San Jose, California, and the company has not yet said whether the delivery system will be rolled out nationwide."
+            ],
+            "arguments": {
+                "1": "San Jose",
+                "2": "California"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 2015, Walmart was the biggest US commercial producer of solar power with 142 MW capacity, and had 17 energy storage projects."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "the biggest US commercial producer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On September 29, 2017, Walmart acquired Parcel, a technology-based, same-day and last-mile delivery company in Brooklyn."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "Parcel",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On 26 February 2019, Walmart announced that Walmart had acquired Tel Aviv-based product review start-up Aspectiva for an undisclosed sum."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "Tel Aviv-based product review",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first Supercenter opened in Washington, Missouri, in 1988."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "Missouri"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A similar concept, Hypermart USA, had opened a year earlier in Garland, Texas."
+            ],
+            "arguments": {
+                "1": "Garland",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The largest Supercenter in the world, covering 260,000 square feet (24,000 square meters) on two floors, is located in Crossgates Commons in Albany, New York."
+            ],
+            "arguments": {
+                "1": "Albany",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Some stores, such as one at Midtown Center in Bentonville, Arkansas, offer made-to-order pizza with a seating area for eating."
+            ],
+            "arguments": {
+                "1": "Bentonville",
+                "2": "Arkansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2009, another Supermercado de Walmart opened in Phoenix, Arizona."
+            ],
+            "arguments": {
+                "1": "Phoenix",
+                "2": "Arizona"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2008, Walmart started a pilot program in the small grocery store concept called Marketside in the metropolitan Phoenix, Arizona, area."
+            ],
+            "arguments": {
+                "1": "Phoenix",
+                "2": "Arizona"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are wholly owned operations in Argentina, Brazil, Canada, and the UK."
+            ],
+            "arguments": {
+                "1": "Brazil",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are wholly owned operations in Argentina, Brazil, Canada, and the UK."
+            ],
+            "arguments": {
+                "1": "Argentina",
+                "2": "Brazil"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Judith McKenna is the president and CEO."
+            ],
+            "arguments": {
+                "1": "Judith McKenna",
+                "2": "the president;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Walmart also owns 51 percent of the Central American Retail Holding Company (CARHCO), which, as of January 31, 2019, consists of 811 stores, including 250 stores in Guatemala (under the Paiz [26 locations], Walmart Supercenter [10 locations], Despensa Familiar [171 locations], and Maxi Dispensa [43 locations] banners), 97 stores in El Salvador (under the Despensa Familiar [63 locations], La Despensa de Don Juan [17 locations], Walmart Supercenter [5 locations], and Maxi Despensa [12 locations] banners), 105 stores in Honduras (including the Paiz [8 locations], Walmart Supercenter [3 locations], Dispensa Familiar [68 locations], and Maxi Despensa [26 locations] banners), 103 stores in Nicaragua (including the Pali [72 locations], La Unin [9 locations], Maxi Pali [20 locations], and Walmart Supercenter [2 locations] banners), and 256 stores in Costa Rica (including the Maxi Pali [42 locations], Mas X Menos [37 locations], Walmart Supercenter [11 locations], and Pali [166 locations] banners)."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "51 percent",
+                "3": "",
+                "4": "",
+                "5": "January 31, 2019"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In January 2009, the company acquired a controlling interest in the largest grocer in Chile, Distribucin y Servicio D&S SA."
+            ],
+            "arguments": {
+                "1": "the company",
+                "2": "a controlling interest",
+                "3": "",
+                "4": "",
+                "5": "January 2009"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "CanadaWalmart has operated in Canada since Canada acquired 122 stores comprising the Woolco division of Woolworth Canada, Inc in 1994."
+            ],
+            "arguments": {
+                "1": "Canada",
+                "2": "122 stores",
+                "3": "",
+                "4": "",
+                "5": "Woolworth Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of January 31, 2019, Canada operates 411 locations (including 339 supercentres and 72 discount stores) and, as of June 2015, Canada employs 89,358 people, with a local home office in Mississauga, Ontario."
+            ],
+            "arguments": {
+                "1": "Mississauga",
+                "2": "Ontario"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of January 31, 2019, Canada operates 411 locations (including 339 supercentres and 72 discount stores) and, as of June 2015, Canada employs 89,358 people, with a local home office in Mississauga, Ontario."
+            ],
+            "arguments": {
+                "1": "Ontario",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Walmart Canada's first three Supercentres (spelled in Canadian English) opened in November 2006 in Ancaster, London, and Stouffville, Ontario."
+            ],
+            "arguments": {
+                "1": "Ancaster",
+                "2": "London"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The 100th Canadian Supercentre opened in July 2010, in Victoria, British Columbia."
+            ],
+            "arguments": {
+                "1": "Victoria",
+                "2": "British Columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On September 28, 2010, Walmart announced Walmart would buy Massmart Holdings Ltd. of Johannesburg, South Africa in a deal worth over US$4 billion giving the company its first footprint in Africa"
+            ],
+            "arguments": {
+                "1": "Johannesburg",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In Japan, Walmart owns 100 percent of Seiyu ( Seiy) as of 2008."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "100 percent",
+                "3": "",
+                "4": "",
+                "5": "Seiyu ( Seiy"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1997, Walmart took over the supermarket chain Wertkauf with its 21 stores for DM 750 million and the following year Walmart acquired 74 Interspar stores for DM 1.3 billion."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "the supermarket chain Wertkauf",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1997, Walmart took over the supermarket chain Wertkauf with its 21 stores for DM 750 million and the following year Walmart acquired 74 Interspar stores for DM 1.3 billion."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "74 Interspar stores",
+                "3": "DM 1.3 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2004, Walmart bought the 118 stores in the Bompreo supermarket chain in northeastern Brazil."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "the 118 stores",
+                "3": "",
+                "4": "",
+                "5": "northeastern Brazil"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Walmart Brasil, the operating company, has its head office in Barueri, So Paulo State, and regional offices in Curitiba, Paran; Porto Alegre, Rio Grande do Sul; Recife, Pernambuco; and Salvador, Bahia."
+            ],
+            "arguments": {
+                "1": "Curitiba",
+                "2": "Paran"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Walmart Brasil operates under the banners Todo Dia, Nacional, Bompreo, Walmart Supercenter, Maxxi Atacado, Hipermercado Big, Hiper Bompreo, Sam's Club, Mercadorama, Walmart Posto (Gas Station), Supermercado Todo Dia, and Hiper Todo Dia."
+            ],
+            "arguments": {
+                "1": "Nacional",
+                "2": "Bompreo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first Sam's Club was opened by Walmart, Inc. in 1983 in Midwest City, Oklahoma under the name \"Sam's Wholesale Club\"."
+            ],
+            "arguments": {
+                "1": "Midwest City",
+                "2": "Oklahoma"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "John Furner has been the CEO of Sam's Club since early 2017."
+            ],
+            "arguments": {
+                "1": "John Furner",
+                "2": "the CEO",
+                "3": "Sam's Club",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Based in San Bruno, California, Walmart's Global eCommerce division provides online retailing for Walmart, Sam's Club, Asda, and all other international brands."
+            ],
+            "arguments": {
+                "1": "San Bruno",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are several locations in the United States in California and Oregon: San Bruno, Sunnyvale, Brisbane, and Portland."
+            ],
+            "arguments": {
+                "1": "Portland",
+                "2": "Oregon"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Marc Lore is the president and CEO."
+            ],
+            "arguments": {
+                "1": "Marc Lore",
+                "2": "the president;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In September 2016, Walmart purchased e-commerce company Jet.com, founded in 2014 by Marc Lore, to start competing with Amazon.com."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "e-commerce company Jet.com",
+                "3": "",
+                "4": "",
+                "5": "September 2016"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Jet.com has acquired its own share of online retailers such as Hayneedle in March 2016, Shoebuy.com in December 2016, and ModCloth in March 2017."
+            ],
+            "arguments": {
+                "1": "Jet.com",
+                "2": "its own share",
+                "3": "",
+                "4": "",
+                "5": "March 2017"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Walmart also acquired Parcel, a delivery service in New York, on September 29, 2017."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "Parcel",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On February 15, 2017, Walmart acquired Moosejaw, an online active outdoor retailer, for approximately $51 million."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "Moosejaw",
+                "3": "approximately $51 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Moosejaw brought with Moosejaw partnerships with more than 400 brands, including Patagonia, The North Face, Marmot, and Arc'teryx."
+            ],
+            "arguments": {
+                "1": "Patagonia",
+                "2": "The North Face"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Moosejaw brought with Moosejaw partnerships with more than 400 brands, including Patagonia, The North Face, Marmot, and Arc'teryx."
+            ],
+            "arguments": {
+                "1": "The North Face",
+                "2": "Marmot"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Walmart is headquartered in the Walmart Home Office complex in Bentonville, Arkansas."
+            ],
+            "arguments": {
+                "1": "Bentonville",
+                "2": "Arkansas"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Doug McMillon became Walmart's CEO on February 1, 2014."
+            ],
+            "arguments": {
+                "1": "Doug McMillon",
+                "2": "Walmart's CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In North America, Walmart's primary competitors include grocery stores and department stores like Aldi, Kmart, Kroger, Ingles, Publix, Target, Harris Teeter, Shopko, and Meijer, and Winn Dixie, Canada's The Real Canadian Superstore, Sobeys and Giant Tiger, and Mexico's Comercial Mexicana and Soriana."
+            ],
+            "arguments": {
+                "1": "Publix",
+                "2": "Target"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In April 2011, Walmart acquired Kosmix to develop software for analyzing real-time data streams."
+            ],
+            "arguments": {
+                "1": "Walmart",
+                "2": "Kosmix",
+                "3": "",
+                "4": "",
+                "5": "April 2011"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Experts found that 25% of arrests overall in St. Petersburg, Florida are made at just one Walmart."
+            ],
+            "arguments": {
+                "1": "St. Petersburg",
+                "2": "Florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Lukas Walton\n    Big-box store\n    Criticism of WalmartWalmart greeter\n    \"Something Wall-Mart This Way Comes\"  a 2004 episode of Comedy Central's South Park\n    Wal-Mart camel  a bone fossil of a prehistoric camel found at a future Wal-Mart store in Mesa, Arizona\n    Wal-Mart First Tee Open at Pebble Beach  former name of a golf tournament\n    Wal-Mart: The High Cost of Low Price  a 2005 documentary film by director Robert Greenwald\n    Walmarting  a neologism\n    Why Wal-Mart Works; and Why That Drives Some People C-R-A-Z-Y  a 2005 rebuttal to the Greenwald documentary"
+            ],
+            "arguments": {
+                "1": "Mesa",
+                "2": "Arizona"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Stephen J. Easterbrook, president, CEO and member of the board of directors of McDonald's Corporation."
+            ],
+            "arguments": {
+                "1": "Stephen J. Easterbrook",
+                "2": "president;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Sarah Friar, CEO of Nextdoor."
+            ],
+            "arguments": {
+                "1": "Sarah Friar",
+                "2": "CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Timothy P. Flynn, retired CEO of KPMG International."
+            ],
+            "arguments": {
+                "1": "Timothy P. Flynn",
+                "2": "retired CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Carla A. Harris, Vice chairman of Wealth Management, head of multicultural client strategy, managing director and senior client advisor at Morgan Stanley."
+            ],
+            "arguments": {
+                "1": "Carla A. Harris",
+                "2": "Vice chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Marissa A. Mayer, Co-founder of Lumi Labs, Inc., and former president and CEO of Yahoo!, Inc..    Doug McMillon, president and CEO of Walmart."
+            ],
+            "arguments": {
+                "1": "Marissa A. Mayer",
+                "2": "Co-founder;former president;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Marissa A. Mayer, Co-founder of Lumi Labs, Inc., and former president and CEO of Yahoo!, Inc..    Doug McMillon, president and CEO of Walmart."
+            ],
+            "arguments": {
+                "1": "Doug McMillon",
+                "2": "CEO;president",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Steven S. Reinemund, retired dean of business at Wake Forest University and retired chairman and CEO of PepsiCo, Inc..    S. Robson \"Rob\" Walton, retired chairman of the board of directors of Walmart Inc..    Steuart Walton, founder of RZC Investments, LLC..    43.00% (1,415,891,131): Walton Enterprises LLC."
+            ],
+            "arguments": {
+                "1": "Steven S. Reinemund",
+                "2": "retired dean",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Steven S. Reinemund, retired dean of business at Wake Forest University and retired chairman and CEO of PepsiCo, Inc..    S. Robson \"Rob\" Walton, retired chairman of the board of directors of Walmart Inc..    Steuart Walton, founder of RZC Investments, LLC..    43.00% (1,415,891,131): Walton Enterprises LLC."
+            ],
+            "arguments": {
+                "1": "Steuart Walton",
+                "2": "founder",
+                "3": "",
+                "4": ""
+            }
+        }
+    ]
+}

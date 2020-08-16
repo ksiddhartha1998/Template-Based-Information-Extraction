@@ -1,0 +1,199 @@
+{
+    "document": "MahatmaGandhi.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Gandhi was an average student, won some prizes, but was a shy and tongue tied student, with no interest in games; his only companions were books and school lessons."
+            ],
+            "arguments": {
+                "1": "Gandhi",
+                "2": "an average student",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Abdullah owned a large successful shipping business in South Africa."
+            ],
+            "arguments": {
+                "1": "Abdullah",
+                "2": "a large successful shipping business",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1921, Gandhi was the leader of the Indian National Congress."
+            ],
+            "arguments": {
+                "1": "Gandhi",
+                "2": "the leader",
+                "3": "the Indian National Congress",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was highlighted by the famous Salt March to Dandi from 12 March to 6 April, where, together with 78 volunteers, he marched 388 kilometres (241 mi) from Ahmedabad to Dandi, Gujarat to make salt he, with the declared intention of breaking the salt laws."
+            ],
+            "arguments": {
+                "1": "Dandi",
+                "2": "Gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This campaign was one of This campaign most successful at upsetting British hold on India; Britain responded by imprisoning over 60,000 people."
+            ],
+            "arguments": {
+                "1": "India",
+                "2": "Britain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi used terminology and phrases such as Rama-rajya from Ramayana, Prahlada as a paradigmatic icon, and such cultural symbols as another facet of swaraj and satyagraha."
+            ],
+            "arguments": {
+                "1": "Ramayana",
+                "2": "Prahlada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Some of Gandhi's ashes were scattered at the source of the Nile River near Jinja, Uganda, and a memorial plaque marks the event."
+            ],
+            "arguments": {
+                "1": "Jinja",
+                "2": "Uganda"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ruskin inspired his decision to live an austere life on a commune, at first on the Phoenix Farm in Natal and then on the Tolstoy Farm just outside Johannesburg, South Africa."
+            ],
+            "arguments": {
+                "1": "Johannesburg",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ruskin inspired his decision to live an austere life on a commune, at first on the Phoenix Farm in Natal and then on the Tolstoy Farm just outside Johannesburg, South Africa."
+            ],
+            "arguments": {
+                "1": "Natal",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi was criticised for refusing to protest the hanging of Bhagat Singh, Sukhdev, Udham Singh and Rajguru."
+            ],
+            "arguments": {
+                "1": "Bhagat Singh",
+                "2": "Sukhdev"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Gandhi justified this support by invoking Islam, stating that \"non-Muslims cannot acquire sovereign jurisdiction\" in Jazirat al-Arab (the Arabian Peninsula)."
+            ],
+            "arguments": {
+                "1": "non-Muslims",
+                "2": "sovereign jurisdiction",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This, states Bhatt, was a very different economic model than the socialism model championed and followed by free India by Nehru  India's first prime minister."
+            ],
+            "arguments": {
+                "1": "Nehru",
+                "2": "India's first prime minister"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Literary works\nGandhi was a prolific writer."
+            ],
+            "arguments": {
+                "1": "Gandhi",
+                "2": "a prolific writer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These include M.G.Road (the main street of a number of Indian cities including Mumbai and Bangalore), Gandhi Market (near Sion, Mumbai) and Gandhinagar (the capital of the state of Gujarat, Gandhi's birthplace)."
+            ],
+            "arguments": {
+                "1": "Sion",
+                "2": "Mumbai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Time Magazine named The 14th Dalai Lama, Lech Wasa, Martin Luther King, Cesar Chavez, Aung San Suu Kyi, Benigno Aquino, Jr., Desmond Tutu, and Nelson Mandela as Children of Gandhi and his spiritual heirs to nonviolence.The Mahatma Gandhi District in Houston, Texas, United States, an ethnic Indian enclave, is officially named after Gandhi."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Time Magazine named The 14th Dalai Lama, Lech Wasa, Martin Luther King, Cesar Chavez, Aung San Suu Kyi, Benigno Aquino, Jr., Desmond Tutu, and Nelson Mandela as Children of Gandhi and his spiritual heirs to nonviolence.The Mahatma Gandhi District in Houston, Texas, United States, an ethnic Indian enclave, is officially named after Gandhi."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "One is located at Sambalpur in Orissa and the second at Nidaghatta village near Kadur in Chikmagalur district of Karnataka and the third one at Chityal in the district of Nalgonda, Telangana."
+            ],
+            "arguments": {
+                "1": "Nalgonda",
+                "2": "Telangana"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Grandson Rajmohan Gandhi is a Professor in Illinois and an author of Gandhi's biography, while another, Tarun Gandhi, has authored several authoritative books on his grandfather."
+            ],
+            "arguments": {
+                "1": "Grandson Rajmohan Gandhi",
+                "2": "an author;a Professor",
+                "3": "Illinois",
+                "4": "Illinois"
+            }
+        }
+    ]
+}

@@ -1,0 +1,573 @@
+{
+    "document": "IBM.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "International Business Machines Corporation (IBM) is an American multinational information technology company headquartered in Armonk, New York, with operations in over 170 countries."
+            ],
+            "arguments": {
+                "1": "Armonk",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company began in 1911, founded in Endicott, New York, as the Computing-Tabulating-Recording Company (CTR) and was renamed \"International Business Machines\" in 1924."
+            ],
+            "arguments": {
+                "1": "Endicott",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On June 16, 1911, their four companies were amalgamated in New York State by Charles Ranlett Flint forming a fifth company, the Computing-Tabulating-Recording Company (CTR) based in Endicott, New York."
+            ],
+            "arguments": {
+                "1": "New York",
+                "2": "New York State"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On June 16, 1911, their four companies were amalgamated in New York State by Charles Ranlett Flint forming a fifth company, the Computing-Tabulating-Recording Company (CTR) based in Endicott, New York."
+            ],
+            "arguments": {
+                "1": "Endicott",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The five companies had 1,300 employees and offices and plants in Endicott and Binghamton, New York; Dayton, Ohio; Detroit, Michigan; Washington, D.C.; and Toronto."
+            ],
+            "arguments": {
+                "1": "Detroit",
+                "2": "Michigan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The five companies had 1,300 employees and offices and plants in Endicott and Binghamton, New York; Dayton, Ohio; Detroit, Michigan; Washington, D.C.; and Toronto."
+            ],
+            "arguments": {
+                "1": "Dayton",
+                "2": "Ohio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The five companies had 1,300 employees and offices and plants in Endicott and Binghamton, New York; Dayton, Ohio; Detroit, Michigan; Washington, D.C.; and Toronto."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A year later, A year moved its corporate headquarters from New York City to Armonk, New York."
+            ],
+            "arguments": {
+                "1": "Armonk",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A year later, A year moved its corporate headquarters from New York City to Armonk, New York."
+            ],
+            "arguments": {
+                "1": "New York City",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2002, IBM acquired PwC consulting, and in 2003 IBM initiated a project to redefine company values, hosting a three-day online discussion of key business issues with 50,000 employees."
+            ],
+            "arguments": {
+                "1": "IBM",
+                "2": "PwC consulting",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2005, the company sold its personal computer business to Chinese technology company Lenovo and, in 2009, IBM acquired software company SPSS Inc. Later in 2009, IBM's Blue Gene supercomputing program was awarded the National Medal of Technology and Innovation by U.S. President Barack Obama."
+            ],
+            "arguments": {
+                "1": "IBM",
+                "2": "software company SPSS Inc.",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2012, IBM announced IBM has agreed to buy Kenexa, and a year later IBM also acquired SoftLayer Technologies, a web hosting service, in a deal worth around $2 billion."
+            ],
+            "arguments": {
+                "1": "IBM",
+                "2": "SoftLayer Technologies",
+                "3": "around $2 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2016, IBM acquired video conferencing service Ustream and formed a new cloud video unit."
+            ],
+            "arguments": {
+                "1": "IBM",
+                "2": "video conferencing service Ustream",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Headquarters and offices\nIBM is headquartered in Armonk, New York, a community 37 miles (60 km) north of Midtown Manhattan."
+            ],
+            "arguments": {
+                "1": "Armonk",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In New York City, IBM has several offices besides CHQ, including the IBM Watson headquarters at Astor Place in Manhattan."
+            ],
+            "arguments": {
+                "1": "Manhattan",
+                "2": "New York City"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Outside of New York, major campuses in the United States include Austin, Texas; Research Triangle Park (Raleigh-Durham), North Carolina; Rochester, Minnesota; and Silicon Valley, California."
+            ],
+            "arguments": {
+                "1": "North Carolina",
+                "2": "Rochester"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Outside of New York, major campuses in the United States include Austin, Texas; Research Triangle Park (Raleigh-Durham), North Carolina; Rochester, Minnesota; and Silicon Valley, California."
+            ],
+            "arguments": {
+                "1": "Rochester",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Outside of New York, major campuses in the United States include Austin, Texas; Research Triangle Park (Raleigh-Durham), North Carolina; Rochester, Minnesota; and Silicon Valley, California."
+            ],
+            "arguments": {
+                "1": "Rochester",
+                "2": "Minnesota"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Outside of New York, major campuses in the United States include Austin, Texas; Research Triangle Park (Raleigh-Durham), North Carolina; Rochester, Minnesota; and Silicon Valley, California."
+            ],
+            "arguments": {
+                "1": "Austin",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Towers occupied by IBM include 1250 Ren-Lvesque (Montreal, Canada), Tour Descartes (Paris, France), and One Atlantic Center (Atlanta, Georgia, USA)."
+            ],
+            "arguments": {
+                "1": "Atlanta",
+                "2": "Georgia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Towers occupied by IBM include 1250 Ren-Lvesque (Montreal, Canada), Tour Descartes (Paris, France), and One Atlantic Center (Atlanta, Georgia, USA)."
+            ],
+            "arguments": {
+                "1": "Paris",
+                "2": "France"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Towers occupied by IBM include 1250 Ren-Lvesque (Montreal, Canada), Tour Descartes (Paris, France), and One Atlantic Center (Atlanta, Georgia, USA)."
+            ],
+            "arguments": {
+                "1": "Montreal",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Towers occupied by IBM include 1250 Ren-Lvesque (Montreal, Canada), Tour Descartes (Paris, France), and One Atlantic Center (Atlanta, Georgia, USA)."
+            ],
+            "arguments": {
+                "1": "Tour Descartes",
+                "2": "Paris"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Towers occupied by IBM include 1250 Ren-Lvesque (Montreal, Canada), Tour Descartes (Paris, France), and One Atlantic Center (Atlanta, Georgia, USA)."
+            ],
+            "arguments": {
+                "1": "Georgia",
+                "2": "USA"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In Beijing, China, IBM occupies Pangu Plaza, the city's seventh tallest building and overlooking Beijing National Stadium (\"Bird's Nest\"), home to the 2008 Summer Olympics."
+            ],
+            "arguments": {
+                "1": "Beijing",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM India Private Limited is the Indian subsidiary of IBM, which is headquartered at Bengaluru, Karnataka."
+            ],
+            "arguments": {
+                "1": "Bengaluru",
+                "2": "Karnataka"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM India Private Limited has facilities in Bengaluru, Ahmedabad, Delhi, Kolkata, Mumbai, Chennai, Pune, Gurugram, Noida, Bhubaneshwar, Coimbatore, Visakhapatnam and Hyderabad."
+            ],
+            "arguments": {
+                "1": "Ahmedabad",
+                "2": "Delhi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM India Private Limited has facilities in Bengaluru, Ahmedabad, Delhi, Kolkata, Mumbai, Chennai, Pune, Gurugram, Noida, Bhubaneshwar, Coimbatore, Visakhapatnam and Hyderabad."
+            ],
+            "arguments": {
+                "1": "Kolkata",
+                "2": "Mumbai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM India Private Limited has facilities in Bengaluru, Ahmedabad, Delhi, Kolkata, Mumbai, Chennai, Pune, Gurugram, Noida, Bhubaneshwar, Coimbatore, Visakhapatnam and Hyderabad."
+            ],
+            "arguments": {
+                "1": "Bengaluru",
+                "2": "Ahmedabad"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM India Private Limited has facilities in Bengaluru, Ahmedabad, Delhi, Kolkata, Mumbai, Chennai, Pune, Gurugram, Noida, Bhubaneshwar, Coimbatore, Visakhapatnam and Hyderabad."
+            ],
+            "arguments": {
+                "1": "Delhi",
+                "2": "Kolkata"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM India Private Limited has facilities in Bengaluru, Ahmedabad, Delhi, Kolkata, Mumbai, Chennai, Pune, Gurugram, Noida, Bhubaneshwar, Coimbatore, Visakhapatnam and Hyderabad."
+            ],
+            "arguments": {
+                "1": "Mumbai",
+                "2": "Chennai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Tokyo",
+                "2": "Japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Massachusetts",
+                "2": "United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Winchester",
+                "2": "UK"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Chicago",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Illinois",
+                "2": "United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Cambridge",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Johannesburg",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other notable buildings include the IBM Rome Software Lab (Rome, Italy), the Hursley House (Winchester, UK), 330 North Wabash (Chicago, Illinois, United States), the Cambridge Scientific Center (Cambridge, Massachusetts, United States), the IBM Toronto Software Lab (Toronto, Canada), the IBM Building, Johannesburg (Johannesburg, South Africa), the IBM Building (Seattle) (Seattle, Washington, United States), the IBM Hakozaki Facility (Tokyo, Japan), the IBM Yamato Facility (Yamato, Japan), the IBM Canada Head Office Building (Ontario, Canada) and the Watson IoT Headquarters (Munich, Germany)."
+            ],
+            "arguments": {
+                "1": "Ontario",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2004, concerns were raised related to IBM's contribution in its early days to pollution in its original location in Endicott, New York."
+            ],
+            "arguments": {
+                "1": "Endicott",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "IBM also owns The Weather Company, which provides weather forecasting and includes weather.com and Weather Underground."
+            ],
+            "arguments": {
+                "1": "IBM",
+                "2": "The Weather Company",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "Beijing",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "Israel",
+                "2": "India lab"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "Australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "Nairobi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "India lab",
+                "2": "Tokyo lab"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "Tokyo lab",
+                "2": "Zurich lab"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "California",
+                "2": "Austin lab"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "Dublin",
+                "2": "Haifa lab"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "Shanghai",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "IBM Research is headquartered at the Thomas J. Watson Research Center in New York, and facilities include the Almaden lab in California, Austin lab in Texas, Australia lab in Melbourne, Brazil lab in So Paulo and Rio de Janeiro, China lab in Beijing and Shanghai, Ireland lab in Dublin, Haifa lab in Israel, India lab in Delhi and Bangalore, Tokyo lab, Zurich lab and Africa lab in Nairobi."
+            ],
+            "arguments": {
+                "1": "Melbourne",
+                "2": "Brazil lab"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Five IBMers have received the Nobel Prize: Leo Esaki, of the Thomas J. Watson Research Center in Yorktown Heights, N.Y., in 1973, for work in semiconductors; Gerd Binnig and Heinrich Rohrer, of the Zurich Research Center, in 1986, for the scanning tunneling microscope; and Georg Bednorz and Alex Mller, also of Zurich, in 1987, for research in superconductivity."
+            ],
+            "arguments": {
+                "1": "Yorktown Heights",
+                "2": "N.Y."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other programs recognize years of service such as the Quarter Century Club established in 1924, and sellers are eligible to join the Hundred Percent Club, composed of IBM salesmen who meet their quotas, convened in Atlantic City, New Jersey."
+            ],
+            "arguments": {
+                "1": "Atlantic City",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Initially he bought 64 million shares costing 10.5 billion dollars."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "64 million shares",
+                "3": "10.5 billion dollars",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}

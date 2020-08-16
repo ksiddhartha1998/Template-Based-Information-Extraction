@@ -1,0 +1,341 @@
+{
+    "document": "China.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "China, officially the People's Republic of China (PRC), is a country in East Asia and the world's most populous country, with a population of around 1.404 billion."
+            ],
+            "arguments": {
+                "1": "the People's Republic of China",
+                "2": "PRC"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The fossilized teeth of Homo sapiens (dated to 125,00080,000 years ago) have been discovered in Fuyan Cave in Dao County, Hunan."
+            ],
+            "arguments": {
+                "1": "Dao County",
+                "2": "Hunan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The dynasty was considered mythical by historians until scientific excavations found early Bronze Age sites at Erlitou, Henan in 1959."
+            ],
+            "arguments": {
+                "1": "Erlitou",
+                "2": "Henan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China was forced to pay compensation, open treaty ports, allow extraterritoriality for foreign nationals, and cede Hong Kong to the British under the 1842 Treaty of Nanking, the first of the Unequal Treaties."
+            ],
+            "arguments": {
+                "1": "Hong Kong",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Kuomintang moved the nation's capital to Nanjing and implemented \"political tutelage\", an intermediate stage of political development outlined in Sun Yat-sen's San-min program for transforming China into a modern democratic state."
+            ],
+            "arguments": {
+                "1": "Nanjing",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other major rivers include the Xi, Mekong, Brahmaputra and Amur."
+            ],
+            "arguments": {
+                "1": "Mekong",
+                "2": "Brahmaputra"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tropical and seasonal rainforests, though confined to Yunnan and Hainan Island, contain a quarter of all the animal and plant species found in China."
+            ],
+            "arguments": {
+                "1": "Yunnan",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The People's Republic of China is the second-largest country in the world by land area after Russia, and is either the third- or fourth-largest by total area, after Russia, Canada and, depending on the definition of total area, the United States."
+            ],
+            "arguments": {
+                "1": "The People's Republic of China",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The People's Republic of China is the second-largest country in the world by land area after Russia, and is either the third- or fourth-largest by total area, after Russia, Canada and, depending on the definition of total area, the United States."
+            ],
+            "arguments": {
+                "1": "Russia",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Additionally, China shares maritime boundaries with South Korea, Japan, Vietnam, and the Philippines."
+            ],
+            "arguments": {
+                "1": "Japan",
+                "2": "Vietnam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Additionally, China shares maritime boundaries with South Korea, Japan, Vietnam, and the Philippines."
+            ],
+            "arguments": {
+                "1": "South Korea",
+                "2": "Japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China's constitution states that The People's Republic of China \"is a socialist state under the people's democratic dictatorship led by the working class and based on the alliance of workers and peasants,\" and that the state organs \"apply the principle of democratic centralism.\""
+            ],
+            "arguments": {
+                "1": "China's constitution",
+                "2": "The People's Republic of China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "Sanya",
+                "2": "Hainan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Brazil, Russia, India and South Africa, China is a member of the BRICS group of emerging major economies and hosted the group's third official summit at Sanya, Hainan in April 2011."
+            ],
+            "arguments": {
+                "1": "Brazil",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition to Taiwan, China is also involved in other international territorial disputes."
+            ],
+            "arguments": {
+                "1": "Taiwan",
+                "2": "China"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, China bought 36% of all the new industrial robots in the world."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "36%",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Chinese smartphone brands -- Huawei, Xiaomi, Oppo, Vivo, OnePlus etc."
+            ],
+            "arguments": {
+                "1": "Huawei",
+                "2": "Xiaomi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Shanghai Metro, Beijing Subway, Guangzhou Metro, Hong Kong MTR and Shenzhen Metro are among the longest and busiest in the world."
+            ],
+            "arguments": {
+                "1": "Guangzhou Metro",
+                "2": "Hong Kong MTR"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In just five years -- from 2013 to 2018 -- China bought 1000 planes from Boeing."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "1000 planes",
+                "3": "",
+                "4": "",
+                "5": "Boeing"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Languages of the Tibeto-Burman branch, including Tibetan, Qiang, Naxi and Yi, are spoken across the Tibetan and YunnanGuizhou Plateau."
+            ],
+            "arguments": {
+                "1": "Tibetan",
+                "2": "Qiang"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other ethnic minority languages in southwest China include Zhuang, Thai, Dong and Sui of the Tai-Kadai family, Miao and Yao of the HmongMien family, and Wa of the Austroasiatic family."
+            ],
+            "arguments": {
+                "1": "Zhuang",
+                "2": "Thai"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "Beijing",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "Tianjin",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "Chongqing",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "Guangzhou",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "Shanghai",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China has over 160 cities with a population of over one million, including the seven megacities (cities with a population of over 10 million) of Chongqing, Shanghai, Beijing, Guangzhou, Tianjin, Shenzhen, and Wuhan."
+            ],
+            "arguments": {
+                "1": "Wuhan",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2010, the annual education expenditure per secondary school student in Beijing totalled 20,023, while in Guizhou, one of the poorest provinces in China, only totalled 3,204."
+            ],
+            "arguments": {
+                "1": "Beijing",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China is home to many of the world's tallest religious statues, including the tallest of all, the Spring Temple Buddha in Henan."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "Henan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China hosted the 2008 Summer Olympics in Beijing, where its athletes received 51 gold medals  the highest number of gold medals of any participating nation that year."
+            ],
+            "arguments": {
+                "1": "Beijing",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2011, Shenzhen in Guangdong, China hosted the 2011 Summer Universiade."
+            ],
+            "arguments": {
+                "1": "Guangdong",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China hosted the 2013 East Asian Games in Tianjin and the 2014 Summer Youth Olympics in Nanjing."
+            ],
+            "arguments": {
+                "1": "Tianjin",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China hosted the 2013 East Asian Games in Tianjin and the 2014 Summer Youth Olympics in Nanjing."
+            ],
+            "arguments": {
+                "1": "Nanjing",
+                "2": "China"
+            }
+        }
+    ]
+}

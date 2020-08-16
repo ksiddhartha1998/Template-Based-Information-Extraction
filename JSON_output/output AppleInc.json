@@ -1,0 +1,428 @@
+{
+    "document": "AppleInc.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, 
+				that designs, develops, and sells consumer electronics, computer software, and online services."
+            ],
+            "arguments": {
+                "1": "Cupertino",
+                "2": "California"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In August 2011, Jobs resigned as CEO due to health complications, and Tim Cook became the new CEO."
+            ],
+            "arguments": {
+                "1": "Tim Cook",
+                "2": "the new CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In July 2001, Apple acquired Spruce Technologies, a PC DVD authoring platform, to incorporate 
+				their technology into Apple's expanding portfolio of digital video projects."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Spruce Technologies",
+                "3": "",
+                "4": "",
+                "5": "July 2001"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2002, Apple purchased Nothing Real for their advanced digital compositing application Shake, as well as Emagic for the music productivity application Logic."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Real",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The purchase of Emagic made Apple the first computer manufacturer to own a music software company."
+            ],
+            "arguments": {
+                "1": "manufacturer",
+                "2": "a music software company",
+                "3": "",
+                "4": "",
+                "5": "Emagic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The official press release explained that Apple was \"scaling back\" on trade shows in general, including Macworld Tokyo and the Apple Expo in Paris, France, primarily because the enormous successes of the Apple Retail Stores and website had rendered trade shows a minor promotional channel."
+            ],
+            "arguments": {
+                "1": "Paris",
+                "2": "France"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Prior to this, Apple did not have a chairman and instead had two co-lead directors, Andrea Jung and Arthur D. Levinson, who continued with those titles until Levinson became chairman of the board in November."
+            ],
+            "arguments": {
+                "1": "Levinson",
+                "2": "chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On February 4, 2014, Cook met with Abdullah Gl, the President of Turkey, in Ankara to discuss the company's involvement in the Fatih project."
+            ],
+            "arguments": {
+                "1": "Ankara",
+                "2": "Turkey"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In August 2018, Apple purchased Akonia Holographics for its augmented reality goggle lens."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "Akonia Holographics",
+                "3": "",
+                "4": "",
+                "5": "August 2018"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On February 14, 2019, Apple acquired DataTiger for its digital marketing technology."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "DataTiger",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Apple owns a YouTube channel where they release advertisements, tips, and introductions for their devices."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "a YouTube channel",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple Inc.'s world corporate headquarters are located in the middle of Silicon Valley, at 16 Infinite Loop, Cupertino, California."
+            ],
+            "arguments": {
+                "1": "Cupertino",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple has expanded its campuses in Austin, Texas concurrently with building Apple Park in Cupertino."
+            ],
+            "arguments": {
+                "1": "Austin",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Apple's headquarters for Europe, the Middle East and Africa (EMEA) are located in Cork in the south of Ireland."
+            ],
+            "arguments": {
+                "1": "Cork",
+                "2": "Ireland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In February 2015, Apple opened their new 180,000-square-foot headquarters in Herzliya, Israel, designed to accommodate approximately 800 employees."
+            ],
+            "arguments": {
+                "1": "Herzliya",
+                "2": "Israel"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This is Apple's third office located within Israel; the first, also in Herzliya, was obtained as part of the Anobit acquisition, and the other is a research center in Haifa."
+            ],
+            "arguments": {
+                "1": "Haifa",
+                "2": "Israel"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In December 2015, Apple bought the 70,000-square-foot manufacturing facility in North San Jose previously used by Maxim Integrated, in an $18.2 million deal."
+            ],
+            "arguments": {
+                "1": "Apple",
+                "2": "the 70,000-square-foot manufacturing facility",
+                "3": "",
+                "4": "",
+                "5": "December 2015"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On December 21, 2016, Nokia announced that in the U.S. and Germany, Nokia has filed a suit against Apple, claiming that the latter's products infringe on Nokia's patents."
+            ],
+            "arguments": {
+                "1": "Germany",
+                "2": "Nokia"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Arthur D. Levinson (chairman)."
+            ],
+            "arguments": {
+                "1": "Arthur D. Levinson",
+                "2": "chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Tim Cook (executive director and CEO)."
+            ],
+            "arguments": {
+                "1": "Tim Cook",
+                "2": "executive director;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Bob Iger (non-executive director)."
+            ],
+            "arguments": {
+                "1": "Bob Iger",
+                "2": "(non-executive director",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Al Gore (non-executive director)."
+            ],
+            "arguments": {
+                "1": "Al Gore",
+                "2": "(non-executive director",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Susan Wagner (non-executive director)."
+            ],
+            "arguments": {
+                "1": "Susan Wagner",
+                "2": "(non-executive director",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Andrea Jung (non-executive director)."
+            ],
+            "arguments": {
+                "1": "Andrea Jung",
+                "2": "(non-executive director",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Ronald Sugar (non-executive director)."
+            ],
+            "arguments": {
+                "1": "Ronald Sugar",
+                "2": "(non-executive director",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Luca Maestri (senior vice president and CFO)."
+            ],
+            "arguments": {
+                "1": "Luca Maestri",
+                "2": "senior vice president",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Katherine L. Adams (senior vice president and general counsel)."
+            ],
+            "arguments": {
+                "1": "Katherine L. Adams",
+                "2": "senior vice president;general counsel",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Phil Schiller (senior vice president - worldwide marketing)."
+            ],
+            "arguments": {
+                "1": "Phil Schiller",
+                "2": "senior vice president",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Dan Riccio (senior vice president - hardware engineering)."
+            ],
+            "arguments": {
+                "1": "Dan Riccio",
+                "2": "senior vice president - hardware engineering",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Eddy Cue (senior vice president - internet software and services)."
+            ],
+            "arguments": {
+                "1": "Eddy Cue",
+                "2": "senior vice president",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Johny Srouji (senior vice president - hardware technologies)."
+            ],
+            "arguments": {
+                "1": "Johny Srouji",
+                "2": "senior vice president - hardware technologies",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Craig Federighi (senior vice president - software engineering)."
+            ],
+            "arguments": {
+                "1": "Craig Federighi",
+                "2": "senior vice president - software engineering",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Steven Dowling (vice president - communications)."
+            ],
+            "arguments": {
+                "1": "Steven Dowling",
+                "2": "vice president - communications",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Lisa P. Jackson (vice president - environment, policy and social initiatives)."
+            ],
+            "arguments": {
+                "1": "Lisa P. Jackson",
+                "2": "vice president - environment",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Tor Myhren (vice president - marketing communications)."
+            ],
+            "arguments": {
+                "1": "Tor Myhren",
+                "2": "vice president - marketing communications",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Isabel Ge Mahe (vice president and managing director - Greater China)."
+            ],
+            "arguments": {
+                "1": "Isabel Ge Mahe",
+                "2": "vice president;managing director",
+                "3": "",
+                "4": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,265 @@
+{
+    "document": "Washington_State.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington ( (listen)), officially the State of Washington, is a state in the Pacific Northwest region of the United States."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is sometimes referred to as Washington State to distinguish Washington from Washington, D.C., the capital of the United States."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is the second most populous state on the West Coast and in the Western United States, after California."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "the Western United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mount Rainier, an active stratovolcano, is the state's highest elevation, at almost 14,411 feet (4,392 meters), and is the 2nd topographically prominent mountain in the continental United States, the first being Denali in Alaska."
+            ],
+            "arguments": {
+                "1": "Denali",
+                "2": "Alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Along with Colorado, Washington was one of the first to legalize medicinal and recreational cannabis, was among the first thirty-six states to legalize same-sex marriage, doing so in 2012, and was one of only four U.S. states to have been providing legal abortions on request before the 1973 Supreme Court decision in Roe v. Wade loosened federal abortion laws."
+            ],
+            "arguments": {
+                "1": "Colorado",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Residents of Washington (known as \"Washingtonians\") and the Pacific Northwest simply refer to the state as \"Washington,\" and the nation's capital \"Washington, D.C.,\" \"the other Washington,\" or simply \"D.C.\"\nGeography"
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is part of a region known as the Pacific Northwest, a term which always includes Washington and Oregon, and may or may not include some or all of the following, depending on the user's intent: Idaho, western Montana, northern California, British Columbia, and Alaska."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "Oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "the United States",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "Tacoma",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "Long Beach",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington has a number of seaports on the Pacific Ocean, including Seattle, Tacoma, Kalama, Anacortes, Vancouver, Longview, Greys County, Olympia, and Port Angeles."
+            ],
+            "arguments": {
+                "1": "Tacoma",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington has a number of seaports on the Pacific Ocean, including Seattle, Tacoma, Kalama, Anacortes, Vancouver, Longview, Greys County, Olympia, and Port Angeles."
+            ],
+            "arguments": {
+                "1": "Seattle",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington has a number of seaports on the Pacific Ocean, including Seattle, Tacoma, Kalama, Anacortes, Vancouver, Longview, Greys County, Olympia, and Port Angeles."
+            ],
+            "arguments": {
+                "1": "Vancouver",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington has a number of seaports on the Pacific Ocean, including Seattle, Tacoma, Kalama, Anacortes, Vancouver, Longview, Greys County, Olympia, and Port Angeles."
+            ],
+            "arguments": {
+                "1": "Olympia",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is crossed by a number of freight railroads, and Amtrak's passenger Cascade route between Eugene, Oregon and Vancouver, BC is the eighth busiest Amtrak service in the US."
+            ],
+            "arguments": {
+                "1": "Vancouver",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Residents of Vancouver have resisted proposals to extend Portland's mass transit system into Washington."
+            ],
+            "arguments": {
+                "1": "Vancouver",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "Tacoma",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "Seattle",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "Redmond",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's nickname, \"The Evergreen State\", was proposed in 1890 by Charles T. Conover of Seattle, Washington."
+            ],
+            "arguments": {
+                "1": "Seattle",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Jay Inslee, Governor (D)."
+            ],
+            "arguments": {
+                "1": "Jay Inslee",
+                "2": "Governor",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Cyrus Habib, Lieutenant Governor (D)."
+            ],
+            "arguments": {
+                "1": "Cyrus Habib",
+                "2": "Lieutenant Governor",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Duane Davidson, State Treasurer (R)."
+            ],
+            "arguments": {
+                "1": "Duane Davidson",
+                "2": "State Treasurer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Bob Ferguson, Attorney General (D)."
+            ],
+            "arguments": {
+                "1": "Bob Ferguson",
+                "2": "Attorney General",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Chris Reykdal, Superintendent of Public Instruction (non-partisan office)."
+            ],
+            "arguments": {
+                "1": "Chris Reykdal",
+                "2": "Superintendent",
+                "3": "",
+                "4": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "document": "Amazon_com.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Amazon was founded by Jeff Bezos in Bellevue, Washington, in July 1994."
+            ],
+            "arguments": {
+                "1": "Bellevue",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Whole Foods Market",
+                "3": "US$13.4 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2012, Amazon bought Kiva Systems to automate its inventory-management business, purchasing Whole Foods Market supermarket chain five years later in 2017."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Kiva Systems",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Amazon owns over 40 subsidiaries, including Zappos, Shopbop, Diapers.com, Kiva Systems (now Amazon Robotics), Audible, Goodreads, Teachstreet, Twitch and IMDb."
+            ],
+            "arguments": {
+                "1": "Zappos",
+                "2": "Shopbop"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon owns over 40 subsidiaries, including Zappos, Shopbop, Diapers.com, Kiva Systems (now Amazon Robotics), Audible, Goodreads, Teachstreet, Twitch and IMDb."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "over 40 subsidiaries",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In January 2015, Amazon Web Services acquired Annapurna Labs, an Israel-based microelectronics company reputedly for US$350370M."
+            ],
+            "arguments": {
+                "1": "Amazon Web Services",
+                "2": "Annapurna Labs",
+                "3": "US$350370M.",
+                "4": "",
+                "5": "January 2015"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Brilliance Audio is an audiobook publisher founded in 1984 by Michael Snodgrass in Grand Haven, Michigan."
+            ],
+            "arguments": {
+                "1": "Grand Haven",
+                "2": "Michigan"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Brilliance Audio is an audiobook publisher founded in 1984 by Michael Snodgrass in Grand Haven, Michigan."
+            ],
+            "arguments": {
+                "1": "Brilliance Audio",
+                "2": "an audiobook publisher",
+                "3": "Grand Haven;Michigan",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The company was purchased by Amazon in 2007 for an undisclosed amount."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "The company",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon bought the company in April 2014."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "the company",
+                "3": "",
+                "4": "",
+                "5": "April 2014"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon bought the company in March 2013."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "the company",
+                "3": "",
+                "4": "",
+                "5": "March 2013"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon acquired Junglee in 1998, and the website Junglee.com was launched in India in February 2012 as a comparison-shopping website."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Junglee",
+                "3": "",
+                "4": "",
+                "5": "February 2012"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Amazon filed communications license documents with the U.S. regulatory authorities the FCC in July 2019, which included information that the wholly owned Amazon subsidiary that intended to deploy the satellite constellation was Kuiper Systems LLC, based in Seattle, Washington."
+            ],
+            "arguments": {
+                "1": "Seattle",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "During 2020 the Kuiper team will move to a larger R&D facility in Redmond, Washington."
+            ],
+            "arguments": {
+                "1": "Redmond",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon bought Ring for $1 billion USD in 2018."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Ring",
+                "3": "$1 billion USD",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon bought the company in August 2008."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "the company",
+                "3": "",
+                "4": "",
+                "5": "August 2008"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Souq.com is the largest E-Commerce platform in the Middle East based in Dubai, United Arab Emirates."
+            ],
+            "arguments": {
+                "1": "Dubai",
+                "2": "United Arab Emirates"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Twitch was acquired by Amazon for $970 million."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Twitch",
+                "3": "$970 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Twitch, Amazon also owns Curse, Inc., an operator of video gaming communities and a provider of VoIP services for gaming."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Curse, Inc.",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Judy McGrath, former CEO, MTV Networks."
+            ],
+            "arguments": {
+                "1": "Judy McGrath",
+                "2": "former CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Jon Rubinstein, former Chairman, and CEO, Palm, Inc..    Thomas O. Ryder, former Chairman, and CEO, Reader's Digest Association."
+            ],
+            "arguments": {
+                "1": "Jon Rubinstein",
+                "2": "CEO;former Chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Patty Stonesifer, President, and CEO, Martha's Table."
+            ],
+            "arguments": {
+                "1": "Patty Stonesifer",
+                "2": "CEO;President",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Wendell P. Weeks, Chairman, President, and CEO, Corning Inc..    Amazon Flexible Payments Service."
+            ],
+            "arguments": {
+                "1": "Wendell P. Weeks",
+                "2": "Chairman;CEO;President",
+                "3": "",
+                "4": ""
+            }
+        }
+    ]
+}

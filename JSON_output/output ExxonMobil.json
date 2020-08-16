@@ -1,0 +1,719 @@
+{
+    "document": "ExxonMobil.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon Mobil Corporation, doing business as ExxonMobil, is an American multinational oil and gas corporation headquartered in Irving, Texas."
+            ],
+            "arguments": {
+                "1": "Irving",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, a sale branch for Italy, Societ Italo Americana pel Petrolio, was established in Venice."
+            ],
+            "arguments": {
+                "1": "Italy",
+                "2": "Societ Italo Americana"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1898, Standard Oil of New Jersey acquired controlling stake in Imperial Oil of Canada."
+            ],
+            "arguments": {
+                "1": "Standard Oil of New Jersey",
+                "2": "controlling stake",
+                "3": "",
+                "4": "",
+                "5": "Imperial Oil of Canada"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "John Duston Archbold was the first president of Jersey Standard."
+            ],
+            "arguments": {
+                "1": "John Duston Archbold",
+                "2": "the first president",
+                "3": "Jersey Standard",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1919, Jersey Standard acquired a 50% share in Humble Oil & Refining Co., a Texas oil producer."
+            ],
+            "arguments": {
+                "1": "Jersey Standard",
+                "2": "a 50% share",
+                "3": "",
+                "4": "",
+                "5": "Humble Oil & Refining Co."
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "For this reason, Socony purchased a 45% interest in Magnolia Petroleum Co., a major refiner, marketer and pipeline transporter, in 1918."
+            ],
+            "arguments": {
+                "1": "Socony",
+                "2": "a 45% interest",
+                "3": "",
+                "4": "",
+                "5": "Magnolia Petroleum Co."
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1926, Socony purchased General Petroleum Corporation of California."
+            ],
+            "arguments": {
+                "1": "Socony",
+                "2": "General Petroleum Corporation of California",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1922, Jersey Standard found oil in Indonesia and in 1927, Jersey Standard built a refinery in Sumatra."
+            ],
+            "arguments": {
+                "1": "Sumatra",
+                "2": "Indonesia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Jersey Standard erected synthetic fuel plants in Bayway, Baton Rouge, and Baytown (unfinished)."
+            ],
+            "arguments": {
+                "1": "Bayway",
+                "2": "Baton Rouge"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1932, Jersey Standard acquired foreign assets of the Pan American Petroleum and Transport Company."
+            ],
+            "arguments": {
+                "1": "Jersey Standard",
+                "2": "foreign assets",
+                "3": "",
+                "4": "",
+                "5": "the Pan American Petroleum and Transport Company"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1940, Socony-Vacuum purchased the Gilmore Oil Company of California, which in 1945 was merged with another subsidiary, General Petroleum Corporation."
+            ],
+            "arguments": {
+                "1": "Socony-Vacuum",
+                "2": "the Gilmore Oil Company",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1948, Jersey Standard and Socony-Vacuum acquired interests in the Arab-American Oil Company (Aramco)."
+            ],
+            "arguments": {
+                "1": "Jersey Standard",
+                "2": "interests",
+                "3": "",
+                "4": "",
+                "5": "the Arab-American Oil Company"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1967, Humble Oil purchased all remaining Signal stations from Standard Oil Company of California (Chevron) In 1969, Humble Oil opened a new refinery in Benicia, California."
+            ],
+            "arguments": {
+                "1": "Benicia",
+                "2": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1967, Humble Oil purchased all remaining Signal stations from Standard Oil Company of California (Chevron) In 1969, Humble Oil opened a new refinery in Benicia, California."
+            ],
+            "arguments": {
+                "1": "Humble Oil",
+                "2": "all remaining Signal stations",
+                "3": "",
+                "4": "",
+                "5": "Chevron"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In April 1980, Exxon opened a 250-ton-per-day pilot plant in Baytown, Texas."
+            ],
+            "arguments": {
+                "1": "Baytown",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1967, Mobil acquired a 28% strategic stake in the German fuel chain Aral."
+            ],
+            "arguments": {
+                "1": "Mobil",
+                "2": "a 28% strategic stake",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1970, Jersey Nuclear opened a nuclear fuel manufacturing facility, now owned by Areva, in Richland, Washington."
+            ],
+            "arguments": {
+                "1": "Richland",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company started surface mining of uranium ore in Converse County, Wyoming, in 1970, solution mining in 1972, and underground mining in 1977."
+            ],
+            "arguments": {
+                "1": "Converse County",
+                "2": "Wyoming"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1973, Exxon acquired the Ray Point uranium ore processing facility which was shortly afterwards decommissioned."
+            ],
+            "arguments": {
+                "1": "Exxon",
+                "2": "the Ray Point uranium ore processing facility",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "Colorado",
+                "2": "United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At the same year, Exxon entered into the oil shale industry by buying a 60% stake in the Colony Shale Oil Project in Colorado, United States, and 50% stake in the Rundle oil shale deposit in Queensland, Australia."
+            ],
+            "arguments": {
+                "1": "Queensland",
+                "2": "Australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mobil moved its headquarters from New York to Fairfax County, Virginia, in 1987."
+            ],
+            "arguments": {
+                "1": "Fairfax County",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon sold the Exxon Building (1251 Avenue of the Americas), its former headquarters in Rockefeller Center, to a unit of Mitsui Real Estate Development Co. Ltd. in 1986 for $610 million, and in 1989, moved its headquarters from Manhattan, New York City to the Las Colinas area of Irving, Texas."
+            ],
+            "arguments": {
+                "1": "Manhattan",
+                "2": "New York City"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon sold the Exxon Building (1251 Avenue of the Americas), its former headquarters in Rockefeller Center, to a unit of Mitsui Real Estate Development Co. Ltd. in 1986 for $610 million, and in 1989, moved its headquarters from Manhattan, New York City to the Las Colinas area of Irving, Texas."
+            ],
+            "arguments": {
+                "1": "Irving",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "As a result, BP acquired all fuels assets, two base oil plants, and a substantial part of the joint venture's finished lubricants business, while ExxonMobil acquired other base oil plants and a part of the finished lubricants business."
+            ],
+            "arguments": {
+                "1": "BP",
+                "2": "all fuels assets",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "As a result, BP acquired all fuels assets, two base oil plants, and a substantial part of the joint venture's finished lubricants business, while ExxonMobil acquired other base oil plants and a part of the finished lubricants business."
+            ],
+            "arguments": {
+                "1": "ExxonMobil",
+                "2": "other base oil plants",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "MEGAS was acquired by Duke Energy and the stake in Thyssengas was acquired by RWE."
+            ],
+            "arguments": {
+                "1": "Duke Energy",
+                "2": "MEGAS",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2014, the Bureau of Land Management approved their research and development project in Rio Blanco County, Colorado."
+            ],
+            "arguments": {
+                "1": "Rio Blanco County",
+                "2": "Colorado"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2010, ExxonMobil bought XTO Energy, the company focused on development and production of unconventional resources."
+            ],
+            "arguments": {
+                "1": "ExxonMobil",
+                "2": "XTO Energy",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "By this time, as a result of numerous mergers and rebranding, the remaining Standard Oil companies that previously objected to the Esso name had been acquired by BP."
+            ],
+            "arguments": {
+                "1": "BP",
+                "2": "the remaining Standard Oil companies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "ExxonMobil also owns hundreds of smaller subsidiaries such as Imperial Oil Limited (69.6% ownership) in Canada, and SeaRiver Maritime, a petroleum shipping company."
+            ],
+            "arguments": {
+                "1": "ExxonMobil",
+                "2": "hundreds",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Upstream (oil exploration, extraction, shipping, and wholesale operations) based in Houston, Texas\n    Downstream (marketing, refining, and retail operations) based in Houston\n    Chemical division based in Houston, Texas"
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas\n    Downstream"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Upstream (oil exploration, extraction, shipping, and wholesale operations) based in Houston, Texas\n    Downstream (marketing, refining, and retail operations) based in Houston\n    Chemical division based in Houston, Texas"
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "As of December 31, 2014, ExxonMobil owned 14.6 million acres (59,000 km2) in the United States, of which 1.7 million acres (6,900 km2) were offshore, 1.5 million acres (6,100 km2) of which were in the Gulf of Mexico."
+            ],
+            "arguments": {
+                "1": "ExxonMobil",
+                "2": "14.6 million acres",
+                "3": "",
+                "4": "",
+                "5": "the Gulf of Mexico"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In Argentina, ExxonMobil holds 0.9 million acres (3,600 km2), Germany 4.9 million acres (20,000 km2), in the Netherlands ExxonMobil owns 1.5 million acres (6,100 km2), in Norway of which 1.7 million acres (6,900 km2) owns 0.4 million acres (1,600 km2) offshore, and the United Kingdom 0.6 million acres (2,400 km2) offshore."
+            ],
+            "arguments": {
+                "1": "of which 1.7 million acres",
+                "2": "1.5 million acres",
+                "3": "",
+                "4": "",
+                "5": "the Netherlands ExxonMobil"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In Africa, upstream operations are concentrated in Angola where upstream operations owns 0.4 million acres (1,600 km2) offshore, Chad where upstream operations owns 46,000 acres (19,000 ha), Equatorial Guinea where upstream operations owns 0.1 million acres (400 km2) offshore, and Nigeria where upstream operations owns 0.8 million acres (3,200 km2) offshore."
+            ],
+            "arguments": {
+                "1": "upstream operations",
+                "2": "0.4 million acres",
+                "3": "",
+                "4": "",
+                "5": "Africa"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In Africa, upstream operations are concentrated in Angola where upstream operations owns 0.4 million acres (1,600 km2) offshore, Chad where upstream operations owns 46,000 acres (19,000 ha), Equatorial Guinea where upstream operations owns 0.1 million acres (400 km2) offshore, and Nigeria where upstream operations owns 0.8 million acres (3,200 km2) offshore."
+            ],
+            "arguments": {
+                "1": "upstream operations",
+                "2": "46,000 acres",
+                "3": "",
+                "4": "",
+                "5": "Africa"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In Africa, upstream operations are concentrated in Angola where upstream operations owns 0.4 million acres (1,600 km2) offshore, Chad where upstream operations owns 46,000 acres (19,000 ha), Equatorial Guinea where upstream operations owns 0.1 million acres (400 km2) offshore, and Nigeria where upstream operations owns 0.8 million acres (3,200 km2) offshore."
+            ],
+            "arguments": {
+                "1": "upstream operations",
+                "2": "0.1 million acres",
+                "3": "",
+                "4": "",
+                "5": "Africa"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In Africa, upstream operations are concentrated in Angola where upstream operations owns 0.4 million acres (1,600 km2) offshore, Chad where upstream operations owns 46,000 acres (19,000 ha), Equatorial Guinea where upstream operations owns 0.1 million acres (400 km2) offshore, and Nigeria where upstream operations owns 0.8 million acres (3,200 km2) offshore."
+            ],
+            "arguments": {
+                "1": "upstream operations",
+                "2": "0.8 million acres",
+                "3": "",
+                "4": "",
+                "5": "Africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mobil is ExxonMobil's primary retail gasoline brand in California, Florida, New York, New England, the Great Lakes and the Midwest."
+            ],
+            "arguments": {
+                "1": "California",
+                "2": "Florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Mobil is ExxonMobil's primary retail gasoline brand in California, Florida, New York, New England, the Great Lakes and the Midwest."
+            ],
+            "arguments": {
+                "1": "Florida",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon is the primary brand in the rest of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states."
+            ],
+            "arguments": {
+                "1": "New Jersey",
+                "2": "Pennsylvania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exxon is the primary brand in the rest of the United States, with the highest concentration of retail outlets located in New Jersey, Pennsylvania, Texas and in the Mid-Atlantic and Southeastern states."
+            ],
+            "arguments": {
+                "1": "Pennsylvania",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "ExxonMobil's headquarters are located in Irving, Texas."
+            ],
+            "arguments": {
+                "1": "Irving",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is designed to house nearly 10,000 employees with an additional 1,500 employees located in a satellite campus in Hughes Landing in The Woodlands, Texas."
+            ],
+            "arguments": {
+                "1": "The Woodlands",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                " had filed suit against the Exxon Mobil Corp. and ExxonMobil Refining and Supply Co. to force cleanup of the oil spill at Greenpoint, Brooklyn, and to restore Newtown Creek."
+            ],
+            "arguments": {
+                "1": "Greenpoint",
+                "2": "Brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The July 2011 Yellowstone River oil spill was an oil spill from an ExxonMobil pipeline running from Silver Tip to Billings, Montana, which ruptured about 10 miles west of Billings on July 1, 2011, at about 11:30 pm."
+            ],
+            "arguments": {
+                "1": "Billings",
+                "2": "Montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As a precaution against a possible explosion, officials in Laurel, Montana evacuated about 140 people on Saturday (July 2) just after midnight, then allowed officials in Laurel, Montana to return at 4 am."
+            ],
+            "arguments": {
+                "1": "Laurel",
+                "2": "Montana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On March 29, 2013, the Pegasus Pipeline, owned by ExxonMobil and carrying Canadian Wabasca heavy crude, ruptured in Mayflower, Arkansas, releasing about 3,190 barrels (507 m3) of oil and forcing the evacuation of 22 homes."
+            ],
+            "arguments": {
+                "1": "Mayflower",
+                "2": "Arkansas"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Angela F. Braly, former president and CEO of WellPoint."
+            ],
+            "arguments": {
+                "1": "Angela F. Braly",
+                "2": "former president;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Ursula Burns, Xerox former chairman and CEO."
+            ],
+            "arguments": {
+                "1": "Ursula Burns",
+                "2": "CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Kenneth Frazier, chairman of the board, president and CEO of Merck & Co..    Steven A. Kandarian, chairman, president and CEO of MetLife, Inc..    Douglas R. Oberhelman, former chairman of the board and chief executive officer of Caterpillar Inc..    Samuel J. Palmisano, former chairman of the board and CEO of IBM Corp..    Steven S Reinemund, executive in residence of Wake Forest University, retired executive chairman of the board, PepsiCo."
+            ],
+            "arguments": {
+                "1": "Kenneth Frazier",
+                "2": "chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Kenneth Frazier, chairman of the board, president and CEO of Merck & Co..    Steven A. Kandarian, chairman, president and CEO of MetLife, Inc..    Douglas R. Oberhelman, former chairman of the board and chief executive officer of Caterpillar Inc..    Samuel J. Palmisano, former chairman of the board and CEO of IBM Corp..    Steven S Reinemund, executive in residence of Wake Forest University, retired executive chairman of the board, PepsiCo."
+            ],
+            "arguments": {
+                "1": "Steven A. Kandarian",
+                "2": "chairman;president;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Kenneth Frazier, chairman of the board, president and CEO of Merck & Co..    Steven A. Kandarian, chairman, president and CEO of MetLife, Inc..    Douglas R. Oberhelman, former chairman of the board and chief executive officer of Caterpillar Inc..    Samuel J. Palmisano, former chairman of the board and CEO of IBM Corp..    Steven S Reinemund, executive in residence of Wake Forest University, retired executive chairman of the board, PepsiCo."
+            ],
+            "arguments": {
+                "1": "Douglas R. Oberhelman",
+                "2": "chief executive officer;former chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Kenneth Frazier, chairman of the board, president and CEO of Merck & Co..    Steven A. Kandarian, chairman, president and CEO of MetLife, Inc..    Douglas R. Oberhelman, former chairman of the board and chief executive officer of Caterpillar Inc..    Samuel J. Palmisano, former chairman of the board and CEO of IBM Corp..    Steven S Reinemund, executive in residence of Wake Forest University, retired executive chairman of the board, PepsiCo."
+            ],
+            "arguments": {
+                "1": "Samuel J. Palmisano",
+                "2": "former chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Kenneth Frazier, chairman of the board, president and CEO of Merck & Co..    Steven A. Kandarian, chairman, president and CEO of MetLife, Inc..    Douglas R. Oberhelman, former chairman of the board and chief executive officer of Caterpillar Inc..    Samuel J. Palmisano, former chairman of the board and CEO of IBM Corp..    Steven S Reinemund, executive in residence of Wake Forest University, retired executive chairman of the board, PepsiCo."
+            ],
+            "arguments": {
+                "1": "Steven S Reinemund",
+                "2": "executive",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "William C. Weldon, former Johnson & Johnson chairman of the board and CEO."
+            ],
+            "arguments": {
+                "1": "William C. Weldon",
+                "2": "former Johnson & Johnson chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Darren W. Woods, chairman of the board and CEO, ExxonMobil Corporation."
+            ],
+            "arguments": {
+                "1": "Darren W. Woods",
+                "2": "chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Darren W. Woods, chairman and CEO."
+            ],
+            "arguments": {
+                "1": "Darren W. Woods",
+                "2": "chairman;CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Neil A. Chapman, senior vice president."
+            ],
+            "arguments": {
+                "1": "Neil A. Chapman",
+                "2": "senior vice president",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Andrew P. Swiger, senior vice president and principal financial officer."
+            ],
+            "arguments": {
+                "1": "Andrew P. Swiger",
+                "2": "senior vice president;principal financial officer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Jack P. Williams, senior vice president."
+            ],
+            "arguments": {
+                "1": "Jack P. Williams",
+                "2": "senior vice president",
+                "3": "",
+                "4": ""
+            }
+        }
+    ]
+}

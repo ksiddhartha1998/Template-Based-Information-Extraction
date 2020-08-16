@@ -1,0 +1,815 @@
+{
+    "document": "Dallas.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas (), officially the City of Dallas, is a city in the U.S. state of Texas and the seat of Dallas County, with portions extending into Collin, Denton, Kaufman and Rockwall counties."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With an estimated 2017 population of 1,341,075, it is the ninth most-populous city in the U.S. and third in Texas after Houston and San Antonio."
+            ],
+            "arguments": {
+                "1": "San Antonio",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With an estimated 2017 population of 1,341,075, it is the ninth most-populous city in the U.S. and third in Texas after Houston and San Antonio."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The area remained under Spanish rule until 1821, when Mexico declared independence from Spain, and the area was considered part of the Mexican state of Coahuila y Tejas."
+            ],
+            "arguments": {
+                "1": "Coahuila",
+                "2": "Mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The official historical marker states The origin of the name was named after Vice President George M. Dallas of Philadelphia, Pennsylvania."
+            ],
+            "arguments": {
+                "1": "Philadelphia",
+                "2": "Pennsylvania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A further theory gives the origin as the village of Dallas, Moray, Scotland, similar to the way Houston, Texas was named after Sam Houston whose ancestors came from the Scottish village of Houston, Renfrewshire."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Renfrewshire"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A further theory gives the origin as the village of Dallas, Moray, Scotland, similar to the way Houston, Texas was named after Sam Houston whose ancestors came from the Scottish village of Houston, Renfrewshire."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A further theory gives the origin as the village of Dallas, Moray, Scotland, similar to the way Houston, Texas was named after Sam Houston whose ancestors came from the Scottish village of Houston, Renfrewshire."
+            ],
+            "arguments": {
+                "1": "Moray",
+                "2": "Scotland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A further theory gives the origin as the village of Dallas, Moray, Scotland, similar to the way Houston, Texas was named after Sam Houston whose ancestors came from the Scottish village of Houston, Renfrewshire."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Moray"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A further theory gives the origin as the village of Dallas, Moray, Scotland, similar to the way Houston, Texas was named after Sam Houston whose ancestors came from the Scottish village of Houston, Renfrewshire."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas became an industrial city, attracting workers from Texas, the South, and the Midwest."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Praetorian Building in Dallas of 15 stories, built in 1909, was the first skyscraper west of the Mississippi and the tallest building in Texas for some time."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "\"Hot spots\" in this area include Uptown, Victory Park, Harwood, Oak Lawn, Dallas Design District, Trinity Groves, Turtle Creek, Cityplace, Knox/Henderson, Greenville and West Village."
+            ],
+            "arguments": {
+                "1": "Harwood",
+                "2": "Oak Lawn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "\"Hot spots\" in this area include Uptown, Victory Park, Harwood, Oak Lawn, Dallas Design District, Trinity Groves, Turtle Creek, Cityplace, Knox/Henderson, Greenville and West Village."
+            ],
+            "arguments": {
+                "1": "Victory Park",
+                "2": "Harwood"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "\"Hot spots\" in this area include Uptown, Victory Park, Harwood, Oak Lawn, Dallas Design District, Trinity Groves, Turtle Creek, Cityplace, Knox/Henderson, Greenville and West Village."
+            ],
+            "arguments": {
+                "1": "Oak Lawn",
+                "2": "Dallas Design District"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In sum, extremes and variations in winter weather are more readily seen in Dallas and Texas as a whole than along the Pacific and Atlantic coasts, due to the state's location in the interior of the North American continent."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Demographics\nDallas is the ninth most-populous city in the United States and third in Texas after the cities of Houston and San Antonio."
+            ],
+            "arguments": {
+                "1": "San Antonio",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Demographics\nDallas is the ninth most-populous city in the United States and third in Texas after the cities of Houston and San Antonio."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas's Jewish population of approximately 45,000 is the largest of any city in Texas."
+            ],
+            "arguments": {
+                "1": "Dallas's Jewish population",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With that in mind, Dallas's violent crime rate (12.06 per 1,000 people) is lower than St Louis (24.81), Detroit (24.22), Baltimore (16.96), Philadelphia (15.62), Cleveland (15.47), Miami (15.09), Washington, D.C. (14.48), Kansas City (14.44) and Boston (13.39)."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 1925 Texas churned out more than  of the nation's cotton crop, with 31% of Texas cotton produced within a 100-mile (160 km) radius of Dallas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 1930s petroleum was discovered east of Dallas near Kilgore, Texas."
+            ],
+            "arguments": {
+                "1": "Kilgore",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the 1930s petroleum was discovered east of Dallas near Kilgore, Texas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Corridor is home to more than 5,700 companies including Texas Instruments (headquartered in Dallas), Nortel Networks, Alcatel Lucent, AT&T, Ericsson, Fujitsu, Nokia, Rockwell Collins, Cisco Systems, Sprint, Verizon Communications, XO Communications and until recently CompUSA (which is now headquartered in Miami, Florida)."
+            ],
+            "arguments": {
+                "1": "Miami",
+                "2": "Florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In October 2016, Jacobs Engineering, one of the world's largest engineering companies, relocated from Pasadena, California to Downtown Dallas."
+            ],
+            "arguments": {
+                "1": "Pasadena",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition to its large number of businesses, Dallas has more shopping centers per capita than any other city in the United States and is also home to the second shopping center ever built in the United States, Highland Park Village, which opened in 1931."
+            ],
+            "arguments": {
+                "1": "the United States",
+                "2": "Highland Park Village"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition to its large number of businesses, Dallas has more shopping centers per capita than any other city in the United States and is also home to the second shopping center ever built in the United States, Highland Park Village, which opened in 1931."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Highland Park Village"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas is home of the two other major malls in North Texas, the Dallas Galleria and NorthPark Center, which is the 2nd largest mall in Texas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas is the third most popular destination for business travel in the United States, and the Kay Bailey Hutchison Convention Center is one of the largest and busiest convention centers in the country, at over 1,000,000 square feet (93,000 m2), and the world's single-largest column-free exhibit hall."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Jeff Banister is the team's manager."
+            ],
+            "arguments": {
+                "1": "Jeff Banister",
+                "2": "the team's manager",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Minor league\nThe Dallas Sidekicks (2012) are an American professional indoor soccer team based in Allen, Texas, a suburb of Dallas."
+            ],
+            "arguments": {
+                "1": "Allen",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Minor league\nThe Dallas Sidekicks (2012) are an American professional indoor soccer team based in Allen, Texas, a suburb of Dallas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "an American professional indoor soccer team based in Allen, Texas, a suburb of Dallas play their home games in the Allen Event Center."
+            ],
+            "arguments": {
+                "1": "Allen",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "an American professional indoor soccer team based in Allen, Texas, a suburb of Dallas play their home games in the Allen Event Center."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The Dallas Mavericks own a NBA G League team, the Texas Legends."
+            ],
+            "arguments": {
+                "1": "The Dallas Mavericks",
+                "2": "a NBA G League team",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Rugby union is a developing sport in Dallas as well as the whole of Texas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Neighboring cities Fort Worth, Arlington, and Denton are home to the Texas Christian University Horned Frogs, University of Texas at Arlington Mavericks, and University of North Texas Mean Green respectively."
+            ],
+            "arguments": {
+                "1": "Fort Worth",
+                "2": "Arlington"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Reverchon Park\nIn 1935, Dallas purchased 36 acres (15 ha) from John Cole's estate to develop Reverchon Park."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "36 acres",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Katy Trail\nNamed after its former railroad name, the Missouri-Kansas-Texas Railroad (or \"MKT\" Railroad), the 3.5-mile stretch of railroad was purchased by the City of Dallas and transformed into the city's premier trail."
+            ],
+            "arguments": {
+                "1": "the City of Dallas",
+                "2": "the 3.5-mile stretch",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Government\nLocal\nThe city uses a council-manager government, with Mike Rawlings serving as Mayor, T.C."
+            ],
+            "arguments": {
+                "1": "Mayor",
+                "2": "T.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dallas also is the seat of the Fifth Court of Appeals of Texas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Politics\nOverall, Dallas is a Democratic-leaning city, with Democratic voters spreading the majority of the city, especially the central and southern sectors, and conservative Republicans dominating a sliver of suburban neighborhoods in North Dallas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "North Dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Originally located in Waco, Texas, Paul Quinn College moved to Dallas in 1990 and is housed on the campus of the former Bishop College, another private, historically black college."
+            ],
+            "arguments": {
+                "1": "Waco",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Originally located in Waco, Texas, Paul Quinn College moved to Dallas in 1990 and is housed on the campus of the former Bishop College, another private, historically black college."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Dallas billionaire and entrepreneur Comer Cottrell, Jr., founder of ProLine Corporation, bought the campus of Bishop College and bequeathed the campus of Bishop College to Paul Quinn College in 1990 making the campus of Bishop College the only historically black college in the Dallas area."
+            ],
+            "arguments": {
+                "1": "Dallas billionaire",
+                "2": "the campus",
+                "3": "",
+                "4": "",
+                "5": "Bishop College"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Originally in Decatur, Texas, the school moved to Dallas in 1965."
+            ],
+            "arguments": {
+                "1": "Decatur",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Originally in Decatur, Texas, the school moved to Dallas in 1965."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Arlington (UTA)\nThe University of North Texas (UNT) in Denton\nTexas Woman's University (TWU) in Denton\nTarleton State University  SW Metroplex at Fort Worth (Texas A&M University System)\nUniversity of Phoenix, Dallas Campus in Dallas, Irving, Plano, Arlington, Hurst, and Cedar Hill\nDallas Christian College (DCC) in Farmers Branch\nArlington Baptist College\nCollin College in Collin County\nRemington College in Garland, Texas, established in July 1997\nRemington College (Ft. Worth Campus)\nAlso, within the Dallas/Fort Worth area, about 30 miles (48 km) to the west of the city of Dallas, Fort Worth has two major universities within its city limits, and one health sciences/medical school:"
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Irving"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Arlington (UTA)\nThe University of North Texas (UNT) in Denton\nTexas Woman's University (TWU) in Denton\nTarleton State University  SW Metroplex at Fort Worth (Texas A&M University System)\nUniversity of Phoenix, Dallas Campus in Dallas, Irving, Plano, Arlington, Hurst, and Cedar Hill\nDallas Christian College (DCC) in Farmers Branch\nArlington Baptist College\nCollin College in Collin County\nRemington College in Garland, Texas, established in July 1997\nRemington College (Ft. Worth Campus)\nAlso, within the Dallas/Fort Worth area, about 30 miles (48 km) to the west of the city of Dallas, Fort Worth has two major universities within its city limits, and one health sciences/medical school:"
+            ],
+            "arguments": {
+                "1": "Garland",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Arlington (UTA)\nThe University of North Texas (UNT) in Denton\nTexas Woman's University (TWU) in Denton\nTarleton State University  SW Metroplex at Fort Worth (Texas A&M University System)\nUniversity of Phoenix, Dallas Campus in Dallas, Irving, Plano, Arlington, Hurst, and Cedar Hill\nDallas Christian College (DCC) in Farmers Branch\nArlington Baptist College\nCollin College in Collin County\nRemington College in Garland, Texas, established in July 1997\nRemington College (Ft. Worth Campus)\nAlso, within the Dallas/Fort Worth area, about 30 miles (48 km) to the west of the city of Dallas, Fort Worth has two major universities within its city limits, and one health sciences/medical school:"
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Fort Worth"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Arlington (UTA)\nThe University of North Texas (UNT) in Denton\nTexas Woman's University (TWU) in Denton\nTarleton State University  SW Metroplex at Fort Worth (Texas A&M University System)\nUniversity of Phoenix, Dallas Campus in Dallas, Irving, Plano, Arlington, Hurst, and Cedar Hill\nDallas Christian College (DCC) in Farmers Branch\nArlington Baptist College\nCollin College in Collin County\nRemington College in Garland, Texas, established in July 1997\nRemington College (Ft. Worth Campus)\nAlso, within the Dallas/Fort Worth area, about 30 miles (48 km) to the west of the city of Dallas, Fort Worth has two major universities within its city limits, and one health sciences/medical school:"
+            ],
+            "arguments": {
+                "1": "Fort Worth",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Arlington (UTA)\nThe University of North Texas (UNT) in Denton\nTexas Woman's University (TWU) in Denton\nTarleton State University  SW Metroplex at Fort Worth (Texas A&M University System)\nUniversity of Phoenix, Dallas Campus in Dallas, Irving, Plano, Arlington, Hurst, and Cedar Hill\nDallas Christian College (DCC) in Farmers Branch\nArlington Baptist College\nCollin College in Collin County\nRemington College in Garland, Texas, established in July 1997\nRemington College (Ft. Worth Campus)\nAlso, within the Dallas/Fort Worth area, about 30 miles (48 km) to the west of the city of Dallas, Fort Worth has two major universities within its city limits, and one health sciences/medical school:"
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Arlington (UTA)\nThe University of North Texas (UNT) in Denton\nTexas Woman's University (TWU) in Denton\nTarleton State University  SW Metroplex at Fort Worth (Texas A&M University System)\nUniversity of Phoenix, Dallas Campus in Dallas, Irving, Plano, Arlington, Hurst, and Cedar Hill\nDallas Christian College (DCC) in Farmers Branch\nArlington Baptist College\nCollin College in Collin County\nRemington College in Garland, Texas, established in July 1997\nRemington College (Ft. Worth Campus)\nAlso, within the Dallas/Fort Worth area, about 30 miles (48 km) to the west of the city of Dallas, Fort Worth has two major universities within its city limits, and one health sciences/medical school:"
+            ],
+            "arguments": {
+                "1": "Arlington",
+                "2": "Hurst"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Arlington (UTA)\nThe University of North Texas (UNT) in Denton\nTexas Woman's University (TWU) in Denton\nTarleton State University  SW Metroplex at Fort Worth (Texas A&M University System)\nUniversity of Phoenix, Dallas Campus in Dallas, Irving, Plano, Arlington, Hurst, and Cedar Hill\nDallas Christian College (DCC) in Farmers Branch\nArlington Baptist College\nCollin College in Collin County\nRemington College in Garland, Texas, established in July 1997\nRemington College (Ft. Worth Campus)\nAlso, within the Dallas/Fort Worth area, about 30 miles (48 km) to the west of the city of Dallas, Fort Worth has two major universities within its city limits, and one health sciences/medical school:"
+            ],
+            "arguments": {
+                "1": "Arlington",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin College in nearby Sherman\nTarleton State University (Texas A&M University System)  Stephenville, Texas\nTexas A&M UniversityCommerce\nSouthwestern Assemblies of God University in nearby Waxahachie\nNavarro College in nearby Corsicana\nTarrant County College in Tarrant County\nPrimary and secondary schools\nMost people in the city of Dallas are within the Dallas Independent School District, the 12th-largest school district in the United States and second largest in Texas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin College in nearby Sherman\nTarleton State University (Texas A&M University System)  Stephenville, Texas\nTexas A&M UniversityCommerce\nSouthwestern Assemblies of God University in nearby Waxahachie\nNavarro College in nearby Corsicana\nTarrant County College in Tarrant County\nPrimary and secondary schools\nMost people in the city of Dallas are within the Dallas Independent School District, the 12th-largest school district in the United States and second largest in Texas."
+            ],
+            "arguments": {
+                "1": "Stephenville",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin College in nearby Sherman\nTarleton State University (Texas A&M University System)  Stephenville, Texas\nTexas A&M UniversityCommerce\nSouthwestern Assemblies of God University in nearby Waxahachie\nNavarro College in nearby Corsicana\nTarrant County College in Tarrant County\nPrimary and secondary schools\nMost people in the city of Dallas are within the Dallas Independent School District, the 12th-largest school district in the United States and second largest in Texas."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "Tarrant County"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A few areas of Dallas also extend into other school districts, including Carrollton-Farmers Branch, Coppell, Duncanville, Garland, Highland Park, Mesquite, Plano, and Richardson."
+            ],
+            "arguments": {
+                "1": "Duncanville",
+                "2": "Garland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Media\nDallas has several local newspapers, magazines, television stations and radio stations that serve the DallasFort Worth metroplex, which is the 5th-largest media market in the United States."
+            ],
+            "arguments": {
+                "1": "Media\nDallas",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The Dallas Times Herald, started in 1888, was the Morning News' major competitor until Belo purchased The Dallas Times Herald on December 8, 1991 and closed the paper down the next day."
+            ],
+            "arguments": {
+                "1": "Belo",
+                "2": "The Dallas Times Herald",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "To the north of Dallas and Fort Worth, the Denton Record-Chronicle primarily covers news for the city of Denton and Denton County."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "the Denton Record-Chronicle"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2003, HBC was acquired by Univision and became Univision Radio Inc., but the radio company remains headquartered in the city."
+            ],
+            "arguments": {
+                "1": "Univision",
+                "2": "HBC",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Red Line travels through Oak Cliff, South Dallas, Downtown, Uptown, North Dallas, Richardson and Plano, while the Blue Line goes through Oak Cliff, Downtown, Uptown, East Dallas, Lake Highlands, and Garland."
+            ],
+            "arguments": {
+                "1": "Uptown",
+                "2": "North Dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Red Line travels through Oak Cliff, South Dallas, Downtown, Uptown, North Dallas, Richardson and Plano, while the Blue Line goes through Oak Cliff, Downtown, Uptown, East Dallas, Lake Highlands, and Garland."
+            ],
+            "arguments": {
+                "1": "Oak Cliff",
+                "2": "South Dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Green Line serves Carrollton, Farmers Branch, Love Field Airport, Stemmons Corridor, Victory Park, Downtown, Deep Ellum, Fair Park, South Dallas, and Pleasant Grove."
+            ],
+            "arguments": {
+                "1": "Stemmons Corridor",
+                "2": "Victory Park"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Green Line serves Carrollton, Farmers Branch, Love Field Airport, Stemmons Corridor, Victory Park, Downtown, Deep Ellum, Fair Park, South Dallas, and Pleasant Grove."
+            ],
+            "arguments": {
+                "1": "Fair Park",
+                "2": "South Dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Airports\nTwo commercial airports serve Dallas: Dallas/Fort Worth International Airport (DFW) and Dallas Love Field (DAL)."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Dallas/Fort Worth International Airport"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Dallas County",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Tianjin",
+                "2": "People's Republic of China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Nanjing",
+                "2": "Jiangsu"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Dalian",
+                "2": "People's Republic of China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Nanjing",
+                "2": "People's Republic of China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Dalian",
+                "2": "Liaoning"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Liaoning",
+                "2": "People's Republic of China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Shandong",
+                "2": "People's Republic of China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Jiangsu",
+                "2": "People's Republic of China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Taipei",
+                "2": "Taiwan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Sister cities:\nBrno, Czech Republic\nDijon, Cte-d'Or, France\nMonterrey, Nuevo Len, Mexico\nRiga, Latvia\nSaratov, Russia\nTaipei, Taiwan\nFriendship cities:\nSendai, Japan\nTianjin, People's Republic of China\nQingdao, Shandong, People's Republic of China\nDalian, Liaoning, People's Republic of China\nNanjing, Jiangsu, People's Republic of China\nSee also\nDallas (1978 TV series) and 2012 TV series)\nI-35 Corridor\nList of museums in North Texas\nList of people from Dallas\nNational Register of Historic Places listings in Dallas County, Texas\nTexas Triangle\n2015 attack on Dallas police\n2016 shooting of Dallas police officers\nNotes\nReferences\nFurther reading\nExternal links\nOfficial website\nOfficial City News Blog\nDallas Convention & Visitors Bureau\nDallas from the Handbook of Texas Online"
+            ],
+            "arguments": {
+                "1": "Qingdao",
+                "2": "Shandong"
+            }
+        }
+    ]
+}

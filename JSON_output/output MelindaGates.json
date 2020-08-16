@@ -1,0 +1,57 @@
+{
+    "document": "MelindaGates.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Melinda Ann Gates DBE (ne French; born August 15, 1964) is an American philanthropist and a former general manager at Microsoft."
+            ],
+            "arguments": {
+                "1": "Melinda Ann Gates DBE",
+                "2": "an American philanthropist;a former general manager",
+                "3": "Microsoft",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Melinda Ann French was born on August 15, 1964 in Dallas, Texas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "These included Cinemania, Encarta, Publisher, Microsoft Bob, Money and Word."
+            ],
+            "arguments": {
+                "1": "Cinemania",
+                "2": "Encarta"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1994, Melinda married Gates in a private ceremony held in Lanai, Hawaii."
+            ],
+            "arguments": {
+                "1": "Lanai",
+                "2": "Hawaii"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2007, Gates received an honorary doctorate in medicine from the Karolinska Institute in Stockholm, Sweden."
+            ],
+            "arguments": {
+                "1": "Stockholm",
+                "2": "Sweden"
+            }
+        }
+    ]
+}

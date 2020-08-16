@@ -1,0 +1,250 @@
+{
+    "document": "OprahWinfrey.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Oprah Winfrey (born Orpah Gail Winfrey; January 29, 1954) is an American media executive, actress, talk show host, television producer and philanthropist."
+            ],
+            "arguments": {
+                "1": "Oprah Winfrey",
+                "2": "philanthropist;actress;an American media executive;television producer;talk show host",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "She was born in Kosciusko, Mississippi, to an unmarried teenage mother."
+            ],
+            "arguments": {
+                "1": "Kosciusko",
+                "2": "Mississippi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At age six, Winfrey moved to an inner-city neighborhood in Milwaukee, Wisconsin, with her mother, who was less supportive and encouraging than her grandmother had been, largely as a result of the long hours Winfrey worked as a maid."
+            ],
+            "arguments": {
+                "1": "Milwaukee",
+                "2": "Wisconsin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 1962, Lee was having difficulty raising both daughters so Winfrey was temporarily sent to live with Vernon in Nashville, Tennessee."
+            ],
+            "arguments": {
+                "1": "Nashville",
+                "2": "Tennessee"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey currently lives on \"The Promised Land\", her 42-acre (17-ha) estate with ocean and mountain views in Montecito, California."
+            ],
+            "arguments": {
+                "1": "Montecito",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "Telluride",
+                "2": "Colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "Fisher Island",
+                "2": "Florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "Lavallette",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Winfrey also owns a house in Lavallette, New Jersey; an apartment in Chicago; an estate on Fisher Island, Florida; a ski house in Telluride, Colorado; and properties on Maui, Hawaii, Antigua and Orcas Island in Washington State."
+            ],
+            "arguments": {
+                "1": "Winfrey",
+                "2": "a house",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "According to Mair, when That man moved to NBC in New York, Winfrey had a love affair with a married man who had no intention of leaving his wife."
+            ],
+            "arguments": {
+                "1": "New York",
+                "2": "Winfrey"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Winfrey's best friend since their early twenties is Gayle King."
+            ],
+            "arguments": {
+                "1": "Winfrey's best friend",
+                "2": "Gayle King",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey hosted a week-long Caribbean cruise for Angelou and 150 guests for Angelou's 70th birthday in 1998, and in 2008, threw she \"an extravagant 80th birthday celebration\" at Donald Trump's Mar-a-Lago club in Palm Beach, Florida."
+            ],
+            "arguments": {
+                "1": "Palm Beach",
+                "2": "Florida"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Winfrey was the highest paid television entertainer in the United States in 2006, earning an estimated $260 million during the year, five times the sum earned by second-place music executive Simon Cowell."
+            ],
+            "arguments": {
+                "1": "Winfrey",
+                "2": "entertainer",
+                "3": "the United States",
+                "4": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Columbia, South Carolina, event on December 9, 2007, drew a crowd of nearly 30,000, the largest for any political event of 2007."
+            ],
+            "arguments": {
+                "1": "Columbia",
+                "2": "South Carolina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An analysis by two economists at the University of Maryland, College Park estimated that Winfrey's endorsement was responsible for between 420,000 and 1,600,000 votes for Obama in the Democratic primary alone, based on a sample of states that did not include Texas, Michigan, North Dakota, Kansas, or Alaska."
+            ],
+            "arguments": {
+                "1": "Michigan",
+                "2": "North Dakota"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An analysis by two economists at the University of Maryland, College Park estimated that Winfrey's endorsement was responsible for between 420,000 and 1,600,000 votes for Obama in the Democratic primary alone, based on a sample of states that did not include Texas, Michigan, North Dakota, Kansas, or Alaska."
+            ],
+            "arguments": {
+                "1": "North Dakota",
+                "2": "Kansas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "An analysis by two economists at the University of Maryland, College Park estimated that Winfrey's endorsement was responsible for between 420,000 and 1,600,000 votes for Obama in the Democratic primary alone, based on a sample of states that did not include Texas, Michigan, North Dakota, Kansas, or Alaska."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "Michigan"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Winfrey responded by stating that although Winfrey was absolutely not interested, Winfrey did feel Winfrey could be a senator."
+            ],
+            "arguments": {
+                "1": "Winfrey",
+                "2": "a senator",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In April 2014, Winfrey spoke for more than 20 minutes at a fundraiser in Arlington, Virginia, for Lavern Chatman, a candidate in a primary to nominate a Democratic Party candidate for election to the U.S. House of Representatives."
+            ],
+            "arguments": {
+                "1": "Arlington",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of 2012, Winfrey had also given over 400 scholarships to Morehouse College in Atlanta, Georgia."
+            ],
+            "arguments": {
+                "1": "Atlanta",
+                "2": "Georgia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Winfrey invested $40 million and some of her time establishing the Oprah Winfrey Leadership Academy for Girls in Henley on Klip south of Johannesburg, South Africa."
+            ],
+            "arguments": {
+                "1": "Johannesburg",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "2007  Oprah Winfrey Presents: Mitch Albom's For One More Day (TV movie) (executive producer)."
+            ],
+            "arguments": {
+                "1": "Mitch Albom's",
+                "2": "(executive producer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "2016present  Greenleaf (executive producer)."
+            ],
+            "arguments": {
+                "1": "Greenleaf",
+                "2": "executive producer",
+                "3": "",
+                "4": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "document": "UnitedStates.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country composed of 50 states, a federal district, five major self-governing territories, and various possessions."
+            ],
+            "arguments": {
+                "1": "the United States",
+                "2": "U.S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The capital is Washington, D.C., and the largest city by population is New York City."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first known publication of the phrase \"United States of America\" was in an anonymous essay in The Virginia Gazette newspaper in Williamsburg, Virginia, on April 6, 1776."
+            ],
+            "arguments": {
+                "1": "Williamsburg",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The first known publication of the phrase \"United States of America\" was in an anonymous essay in The Virginia Gazette newspaper in Williamsburg, Virginia, on April 6, 1776."
+            ],
+            "arguments": {
+                "1": "Virginia",
+                "2": "United States of America"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "George Washington, who had led the revolutionary army to victory, was the first president elected under the new constitution."
+            ],
+            "arguments": {
+                "1": "George Washington",
+                "2": "the first president",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Puerto Rico, Guam, and the Philippines were ceded by Spain in the same year, following the SpanishAmerican War."
+            ],
+            "arguments": {
+                "1": "Puerto Rico",
+                "2": "Guam"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "American Samoa was acquired by The United States in 1900 after the end of the Second Samoan Civil War."
+            ],
+            "arguments": {
+                "1": "The United States",
+                "2": "American Samoa",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The United States purchased the U.S. Virgin Islands from Denmark in 1917."
+            ],
+            "arguments": {
+                "1": "The United States",
+                "2": "the U.S. Virgin Islands",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States played a leading role in the Bretton Woods and Yalta conferences with the United Kingdom, the Soviet Union, and other Allies, which signed agreements on new international financial institutions and Europe's postwar reorganization."
+            ],
+            "arguments": {
+                "1": "the United Kingdom",
+                "2": "the Soviet Union"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States developed the first nuclear weapons and used them on Japan in the cities of Hiroshima and Nagasaki; causing the Japanese to surrender on September 2, ending World War II."
+            ],
+            "arguments": {
+                "1": "Nagasaki",
+                "2": "Japan"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The growing Civil Rights Movement used nonviolence to confront segregation and discrimination, with Martin Luther King Jr. becoming a prominent leader and figurehead."
+            ],
+            "arguments": {
+                "1": "Martin Luther King Jr.",
+                "2": "a prominent leader",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On September 11, 2001, Al-Qaeda terrorists struck the World Trade Center in New York City and the Pentagon near Washington, D.C., killing nearly 3,000 people."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Altogether, the government owns about 28% of the country's land area."
+            ],
+            "arguments": {
+                "1": "the government",
+                "2": "about 28%",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The third most populous nation in the world, after China and India, the United States is the only major industrialized nation in which large population increases are projected."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "China, India, and the Philippines have been in the top four sending countries every year since the 1990s."
+            ],
+            "arguments": {
+                "1": "China",
+                "2": "India"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "Baha'i",
+                "2": "Sikh"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "Jain",
+                "2": "Shinto"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also Unitarian Universalist, Scientologist, Baha'i, Sikh, Jain, Shinto, Confucian, Taoist, Druid, Native American, Wiccan, humanist and deist communities."
+            ],
+            "arguments": {
+                "1": "Sikh",
+                "2": "Jain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The District of Columbia Columbia is a federal district that contains the capital of the United States, Washington DC."
+            ],
+            "arguments": {
+                "1": "the United States",
+                "2": "Washington DC"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Almost all countries have embassies in Washington, D.C., and many have consulates around the country."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "However, Iran, North Korea, Bhutan, and the Republic of China (Taiwan) do not have formal diplomatic relations with the United States (although the U.S. still maintains unofficial relations with Taiwan and supplies unofficial relations with Taiwan with military equipment)."
+            ],
+            "arguments": {
+                "1": "Iran",
+                "2": "Taiwan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States has a \"Special Relationship\" with the United Kingdom and strong ties with Canada, Australia, New Zealand, the Philippines, Japan, South Korea, Israel, and several European Union countries, including France, Italy, Germany, and Spain."
+            ],
+            "arguments": {
+                "1": "Canada",
+                "2": "Australia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States has a \"Special Relationship\" with the United Kingdom and strong ties with Canada, Australia, New Zealand, the Philippines, Japan, South Korea, Israel, and several European Union countries, including France, Italy, Germany, and Spain."
+            ],
+            "arguments": {
+                "1": "Australia",
+                "2": "New Zealand"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States has a \"Special Relationship\" with the United Kingdom and strong ties with Canada, Australia, New Zealand, the Philippines, Japan, South Korea, Israel, and several European Union countries, including France, Italy, Germany, and Spain."
+            ],
+            "arguments": {
+                "1": "Japan",
+                "2": "South Korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States has a \"Special Relationship\" with the United Kingdom and strong ties with Canada, Australia, New Zealand, the Philippines, Japan, South Korea, Israel, and several European Union countries, including France, Italy, Germany, and Spain."
+            ],
+            "arguments": {
+                "1": "South Korea",
+                "2": "Israel"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The United States is the only advanced economy that does not guarantee its workers paid vacation and is one of just a few countries in the world without paid family leave as a legal right, with the others being Papua New Guinea, Suriname and Liberia."
+            ],
+            "arguments": {
+                "1": "The United States",
+                "2": "Papua New Guinea"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "91% of Americans also own a mobile phone as of May 2013."
+            ],
+            "arguments": {
+                "1": "91%",
+                "2": "a mobile phone",
+                "3": "",
+                "4": "",
+                "5": "May 2013"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Mark Twain and poet Walt Whitman were major figures in the century's second half; Emily Dickinson, virtually unknown during her lifetime, is now recognized as an essential American poet."
+            ],
+            "arguments": {
+                "1": "Mark Twain",
+                "2": "major figures",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Cinema\nHollywood, a northern district of Los Angeles, California, is one of the leaders in motion picture production."
+            ],
+            "arguments": {
+                "1": "Los Angeles",
+                "2": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "With very few exceptions, all the newspapers in the U.S. are privately owned, either by large chains such as Gannett or McClatchy, which own dozens or even hundreds of newspapers; by small chains that own a handful of papers; or in a situation that is increasingly rare, by individuals or families."
+            ],
+            "arguments": {
+                "1": "which",
+                "2": "dozens",
+                "3": "",
+                "4": "",
+                "5": "the U.S."
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "With very few exceptions, all the newspapers in the U.S. are privately owned, either by large chains such as Gannett or McClatchy, which own dozens or even hundreds of newspapers; by small chains that own a handful of papers; or in a situation that is increasingly rare, by individuals or families."
+            ],
+            "arguments": {
+                "1": "that",
+                "2": "a handful",
+                "3": "",
+                "4": "",
+                "5": "the U.S."
+            }
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "document": "AbrahamLincoln.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Abraham Thomas Lincoln (February 12, 1809  April 15, 1865) was an American statesman, politician, and lawyer who served as the 16th president of the United States from 1861 until his assassination in April 1865."
+            ],
+            "arguments": {
+                "1": "Abraham Thomas Lincoln",
+                "2": "lawyer;politician;the 16th president",
+                "3": "the United States",
+                "4": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Family and childhood\nEarly life\nAbraham Lincoln was born on February 12, 1809, as the second child of Thomas and Nancy Hanks Lincoln, in a one-room log cabin on Sinking Spring Farm near Hodgenville, Kentucky."
+            ],
+            "arguments": {
+                "1": "Hodgenville",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He was a descendant of Samuel Lincoln, an Englishman who migrated from Hingham, Norfolk, to its namesake Hingham, Massachusetts, in 1638."
+            ],
+            "arguments": {
+                "1": "Hingham",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He was a descendant of Samuel Lincoln, an Englishman who migrated from Hingham, Norfolk, to its namesake Hingham, Massachusetts, in 1638."
+            ],
+            "arguments": {
+                "1": "Hingham",
+                "2": "Norfolk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Lincoln's paternal grandfather and namesake, Captain Abraham Lincoln, moved the family from Virginia to Jefferson County, Kentucky, in the 1780s."
+            ],
+            "arguments": {
+                "1": "Jefferson County",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Thomas then worked at odd jobs in Kentucky and in Tennessee, before settling with members of his family in Hardin County, Kentucky, in the early 1800s."
+            ],
+            "arguments": {
+                "1": "Hardin County",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Thomas then worked at odd jobs in Kentucky and in Tennessee, before settling with members of his family in Hardin County, Kentucky, in the early 1800s."
+            ],
+            "arguments": {
+                "1": "Tennessee",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Thomas and Nancy married on June 12, 1806, in Washington County, and moved to Elizabethtown, Kentucky."
+            ],
+            "arguments": {
+                "1": "Elizabethtown",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Indiana was a \"free\" (non-slaveholding) territory, and they settled in an \"unbroken forest\" in Hurricane Township, Perry County."
+            ],
+            "arguments": {
+                "1": "Hurricane Township",
+                "2": "Perry County"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "(Their land became part of Spencer County, Indiana, when the county was established in 1818.)"
+            ],
+            "arguments": {
+                "1": "Spencer County",
+                "2": "Indiana"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On December 2, 1819, Thomas married Sarah \"Sally\" Bush Johnston, a widow from Elizabethtown, Kentucky, with three children of her own."
+            ],
+            "arguments": {
+                "1": "Elizabethtown",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In early March 1830, partly out of fear of a milk sickness outbreak, several members of the extended Lincoln family moved west to Illinois, a free state, and settled in Macon County, 10 miles (16 km) west of Decatur."
+            ],
+            "arguments": {
+                "1": "Decatur",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1831, as Thomas and other family prepared to move to a new homestead in Coles County, Illinois, Abraham left home."
+            ],
+            "arguments": {
+                "1": "Coles County",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1840, Lincoln became engaged to Mary Todd, a daughter of Robert Smith Todd, a wealthy slave-owner in Lexington, Kentucky."
+            ],
+            "arguments": {
+                "1": "Lexington",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "They met in Springfield, Illinois in December 1839 and were engaged a year later."
+            ],
+            "arguments": {
+                "1": "Springfield",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1844, the couple bought a house in Springfield near Lincoln's law office."
+            ],
+            "arguments": {
+                "1": "the couple",
+                "2": "a house",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early career and militia service\nIn 1832 Lincoln and partner Denton Offutt bought a general store on credit in New Salem, Illinois."
+            ],
+            "arguments": {
+                "1": "New Salem",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Early career and militia service\nIn 1832 Lincoln and partner Denton Offutt bought a general store on credit in New Salem, Illinois."
+            ],
+            "arguments": {
+                "1": "Lincoln and partner Denton Offutt",
+                "2": "a general store",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 1859, Lincoln purchased the Illinois Staats-Anzeiger, a German-language newspaper that was consistently supportive; most of the state's 130,000 German Americans voted Democratic but the German-language paper mobilized Republican support."
+            ],
+            "arguments": {
+                "1": "Lincoln",
+                "2": "Anzeiger",
+                "3": "",
+                "4": "",
+                "5": "the state's 130,000 German Americans"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The upper South and border states (Delaware, Maryland, Virginia, North Carolina, Tennessee, Kentucky, Missouri, and Arkansas) listened to, but initially rejected, the secessionist appeal."
+            ],
+            "arguments": {
+                "1": "Tennessee",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On February 23, 1861, The president-elect arrived in disguise in Washington, D.C., which was placed under substantial military guard."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Virginia seceded and was rewarded with the Confederate capital, despite the exposed position of Richmond close to Union lines."
+            ],
+            "arguments": {
+                "1": "Richmond",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1864 Confederate general Jubal Early raided Washington, D.C., while Lincoln watched from an exposed position; Captain Oliver Wendell Holmes shouted at him, \"Get down, you damn fool, before you get shot!\""
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "David Davis was Lincoln's campaign manager in 1860 and had served as a judge in Lincoln's Illinois court circuit."
+            ],
+            "arguments": {
+                "1": "David Davis",
+                "2": "Lincoln's campaign manager",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The train followed a circuitous route from Washington D.C. to Springfield, Illinois, stopping at many cities for memorials attended by hundreds of thousands."
+            ],
+            "arguments": {
+                "1": "Springfield",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "classical liberal democratan enemy of artificial hierarchy, a friend to trade and business as ennobling and enabling, and an American counterpart to Mill, Cobden, and Bright (whose portrait Lincoln hung in his White House office)."
+            ],
+            "arguments": {
+                "1": "Mill",
+                "2": "Cobden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The high point came in 1922 with the dedication of the Lincoln Memorial on the National Mall in Washington, D.C."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where His likeness died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+            ],
+            "arguments": {
+                "1": "Springfield",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The most famous and most visited memorials are Lincoln's sculpture on Mount Rushmore; Lincoln Memorial, Ford's Theatre, and Petersen House (where His likeness died) in Washington, D.C.; and the Abraham Lincoln Presidential Library and Museum in Springfield, Illinois, not far from Lincoln's home, as well as his tomb."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Exploring Lincoln: Great Historians Reappraise Our Greatest President (2015), essays by 16 scholars\nManning, Chandra, \"The Shifting Terrain of Attitudes toward Abraham Lincoln and Emancipation\", Journal of the Abraham Lincoln Association, 34 (Winter 2013), 1839."
+            ],
+            "arguments": {
+                "1": "Manning",
+                "2": "Chandra"
+            }
+        }
+    ]
+}

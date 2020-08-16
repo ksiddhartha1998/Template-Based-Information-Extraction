@@ -1,0 +1,343 @@
+{
+    "document": "TeslaInc.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla, Inc. (formerly Tesla Motors, Inc.) is an American automotive and energy company based in Palo Alto, California."
+            ],
+            "arguments": {
+                "1": "Palo Alto",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company operates multiple production and assembly plants, notably Gigafactory 1 near Reno, Nevada, and its main vehicle manufacturing facility at Tesla Factory in Fremont, California."
+            ],
+            "arguments": {
+                "1": "Fremont",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The company operates multiple production and assembly plants, notably Gigafactory 1 near Reno, Nevada, and its main vehicle manufacturing facility at Tesla Factory in Fremont, California."
+            ],
+            "arguments": {
+                "1": "Reno",
+                "2": "Nevada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Also in 2016, Tesla sold US$1 billion worth of cars in China, the world's largest market for electric vehicles, and in October of the following year Tesla reached an agreement with the Chinese government to build a factory in Shanghai."
+            ],
+            "arguments": {
+                "1": "Shanghai",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In May 2010 Tesla purchased a stake in what would become the Tesla Factory in Fremont, California, for US$42 million, and opened the facility in October 2010."
+            ],
+            "arguments": {
+                "1": "Fremont",
+                "2": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 2010 Tesla purchased a stake in what would become the Tesla Factory in Fremont, California, for US$42 million, and opened the facility in October 2010."
+            ],
+            "arguments": {
+                "1": "Tesla",
+                "2": "a stake",
+                "3": "US$42 million",
+                "4": "",
+                "5": "October 2010"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For the European market, a final assembly plant and European Distribution Center are part of the Tesla facilities in Tilburg, Netherlands."
+            ],
+            "arguments": {
+                "1": "Tilburg",
+                "2": "Netherlands"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Musk wanted the first three models to spell \"SEX\", but Ford owns the trademark to \"Model E\", so settled for \"S3XY\" by making the Model Y."
+            ],
+            "arguments": {
+                "1": "Ford",
+                "2": "the trademark",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "United States\nTesla was founded in San Carlos, California."
+            ],
+            "arguments": {
+                "1": "San Carlos",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "United States\nTesla was founded in San Carlos, California."
+            ],
+            "arguments": {
+                "1": "California",
+                "2": "United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "Menlo Park",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla's first retail stores were in Los Angeles, in Menlo Park, California and in Manhattan's Chelsea art district, followed by others in major US cities."
+            ],
+            "arguments": {
+                "1": "Los Angeles",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Factories\nTesla's first assembly plant occupies the former NUMMI plant in Fremont, California."
+            ],
+            "arguments": {
+                "1": "Fremont",
+                "2": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2015, Tesla acquired Riviera Tool & Die (with 100 employees in Michigan), one of its suppliers of stamping items."
+            ],
+            "arguments": {
+                "1": "Tesla",
+                "2": "Riviera Tool & Die",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, Tesla acquired Perbix Machine Company, a manufacturer of automated manufacturing equipment, that had been an equipment supplier for over three years."
+            ],
+            "arguments": {
+                "1": "Tesla",
+                "2": "Perbix Machine Company",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gigafactory 1 is located outside Reno, Nevada."
+            ],
+            "arguments": {
+                "1": "Reno",
+                "2": "Nevada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Gigafactory 2 is located in Buffalo, New York on the site of a former Republic Steel plant."
+            ],
+            "arguments": {
+                "1": "Buffalo",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada\nTesla's first \"new design\" store opened on November 16, 2012 in the Yorkdale Shopping Centre in Toronto, Ontario."
+            ],
+            "arguments": {
+                "1": "Toronto",
+                "2": "Ontario"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Canada\nTesla's first \"new design\" store opened on November 16, 2012 in the Yorkdale Shopping Centre in Toronto, Ontario."
+            ],
+            "arguments": {
+                "1": "Ontario",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A 62,000 sq ft (5,800 m2) European service center operates in Tilburg, Netherlands, along with a 77,650 m2 (835,800 sq ft) assembly facility that adds drivetrain, battery and software to the (imported) car body to reduce EU import tax."
+            ],
+            "arguments": {
+                "1": "Tilburg",
+                "2": "Netherlands"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In late 2016, Tesla acquired German engineering firm Grohmann Engineering in Prm as a new division dedicated to helping Tesla increase the automation and effectiveness of its manufacturing process."
+            ],
+            "arguments": {
+                "1": "Tesla",
+                "2": "German engineering firm Grohmann Engineering",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of February 2018, Tesla is building a small research and development office in Athens, Greece."
+            ],
+            "arguments": {
+                "1": "Athens",
+                "2": "Greece"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla opened its first Japanese showroom in Tokyo, Japan, in October 2010."
+            ],
+            "arguments": {
+                "1": "Tokyo",
+                "2": "Japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In South Korea, Tesla opened two showrooms in March 2017 and a service center in late 2017."
+            ],
+            "arguments": {
+                "1": "South Korea",
+                "2": "Tesla"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gigafactory 3\nIn July 2018, Tesla signed an agreement with Chinese authorities to build a factory in Shanghai, China, which is Tesla's first Gigafactory outside of the United States."
+            ],
+            "arguments": {
+                "1": "Shanghai",
+                "2": "China"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Middle East\nTesla opened a showroom and a service center in Dubai, United Arab Emirates, in 2017 as the first expansion of Tesla in the Middle East."
+            ],
+            "arguments": {
+                "1": "Dubai",
+                "2": "United Arab Emirates"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On May 19, 2009, Daimler bought a stake of less than 10% in Tesla for a reported US$50 million."
+            ],
+            "arguments": {
+                "1": "Daimler",
+                "2": "a stake",
+                "3": "US$50 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tesla and Toyota also collaborate on the manufacturing and production of photovoltaic (PV) cells and modules at Gigafactory 2 in Buffalo, New York."
+            ],
+            "arguments": {
+                "1": "Buffalo",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Crashes and fires\nOn October 1, 2013, a Model S caught fire after the vehicle hit metal debris on a highway in Kent, Washington."
+            ],
+            "arguments": {
+                "1": "Kent",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On November 6, 2013, a Tesla Model S on Interstate 24 near Murfreesboro, Tennessee, caught fire after it struck a tow hitch on the roadway, causing damage beneath the vehicle."
+            ],
+            "arguments": {
+                "1": "Murfreesboro",
+                "2": "Tennessee"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A Model S driver died in a collision with a tractor-trailer on May 7, 2016, in Williston, Florida, while the vehicle was in autopilot mode."
+            ],
+            "arguments": {
+                "1": "Williston",
+                "2": "Florida"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On May 8, 2018, two 18-year-olds, driver Barrett Riley and passenger Edgar Monserratt Martinez, died in a fire in Fort Lauderdale, Florida that ensued after crashing a Tesla Model S in Norway into a wall while driving at the speed of 116 mph in a 25-30 mph zone."
+            ],
+            "arguments": {
+                "1": "Fort Lauderdale",
+                "2": "Florida"
+            }
+        }
+    ]
+}

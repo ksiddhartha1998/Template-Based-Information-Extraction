@@ -1,0 +1,260 @@
+{
+    "document": "GeorgeWashington.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "George Washington (February 22, 1732  December 14, 1799) was an American political leader, military general, statesman, and Founding Father who also served as the first president of the United States from 1789 to 1797."
+            ],
+            "arguments": {
+                "1": "George Washington",
+                "2": "general;the first president;an American political leader",
+                "3": "Founding Father;the United States",
+                "4": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "George Washington was born February 22, 1732 at Popes Creek in Westmoreland County, Virginia, and was the first of six children of Augustine and Mary Ball Washington."
+            ],
+            "arguments": {
+                "1": "Westmoreland County",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The family moved to Little Hunting Creek, then to Ferry Farm near Fredericksburg, Virginia."
+            ],
+            "arguments": {
+                "1": "Fredericksburg",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Augustine received a surveyor's license the following year from the College of William & Mary; Fairfax appointed Augustine surveyor of Culpeper County, Virginia, and Augustine thus familiarized Augustine with the frontier region."
+            ],
+            "arguments": {
+                "1": "Culpeper County",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Augustine resigned from the job in 1750 and had bought almost 1,500 acres (600 ha) in the Valley, and Augustine owned 2,315 acres (937 ha) by 1752."
+            ],
+            "arguments": {
+                "1": "Augustine",
+                "2": "almost 1,500 acres",
+                "3": "",
+                "4": "",
+                "5": "the Valley"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Crawford allotted 23,200 acres (9,400 ha) to Washington; Washington told the veterans that their land was hilly and unsuitable for farming, and he agreed to purchase 20,147 acres (8,153 ha), leaving some feeling that they had been duped."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Thomas Gage was commander of British forces in America at the beginning of the war."
+            ],
+            "arguments": {
+                "1": "Thomas Gage",
+                "2": "commander",
+                "3": "America",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Quebec, Boston, and Long Island\nIn June 1775, Congress ordered an invasion of Canada, to convince the British to then seek peace on favorable terms and secure the northern border by annexing Canada."
+            ],
+            "arguments": {
+                "1": "Quebec",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Quebec, Boston, and Long Island\nIn June 1775, Congress ordered an invasion of Canada, to convince the British to then seek peace on favorable terms and secure the northern border by annexing Canada."
+            ],
+            "arguments": {
+                "1": "Quebec",
+                "2": "Boston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On August 22, Howe landed 20,000 troops at Gravesend, Brooklyn and approached Washington's fortifications, as King George III proclaimed that the rebellious American colonists were traitors to the Crown."
+            ],
+            "arguments": {
+                "1": "Gravesend",
+                "2": "Brooklyn"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Crossing the Delaware, Trenton, and Princeton\nWashington's army was reduced to 5,400 troops and retreated through New Jersey."
+            ],
+            "arguments": {
+                "1": "Princeton",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Crossing the Delaware, Trenton, and Princeton\nWashington's army was reduced to 5,400 troops and retreated through New Jersey."
+            ],
+            "arguments": {
+                "1": "Trenton",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington's depleted Continental Army took up winter headquarters in Morristown, New Jersey while disrupting British supply lines and expelling winter headquarters in Morristown, New Jersey from parts of New Jersey."
+            ],
+            "arguments": {
+                "1": "Morristown",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington determined that smallpox inoculation could prevent deaths from the disease while the army was camped at Morristown, New Jersey, and he employed it for the army to great effect."
+            ],
+            "arguments": {
+                "1": "Morristown",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "But General Howe in British-occupied New York blundered, taking his army south to Philadelphia rather than up the Hudson River to join Burgoyne near Albany."
+            ],
+            "arguments": {
+                "1": "Albany",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington's troops went into quarters at Morristown, New Jersey during the winter of 17791780 and suffered their worst winter of the war, with temperatures well below freezing."
+            ],
+            "arguments": {
+                "1": "Morristown",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Clinton assembled 12,500 troops and attacked Charlestown, South Carolina in January 1780, defeating General Benjamin Lincoln who only had 5,100 Continental troops."
+            ],
+            "arguments": {
+                "1": "Charlestown",
+                "2": "South Carolina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington was reinvigorated, however, when Lafayette returned from France with more ships, men, and supplies, and 5,000 veteran French troops led by Marshal Rochambeau arrived at Newport, Rhode Island in July 1780."
+            ],
+            "arguments": {
+                "1": "Newport",
+                "2": "Rhode Island"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "James Monroe was the American Minister to France, but Washington recalled James Monroe for his opposition to the Treaty."
+            ],
+            "arguments": {
+                "1": "James Monroe",
+                "2": "the American Minister",
+                "3": "Washington;France",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Historians estimate that the estate was worth about $1 million in 1799 dollars, equivalent to about $20 million in 2018. he bought land parcels to spur development around the new Federal City that was named in his honor, and he sold individual lots to middle-income investors rather than multiple lots to large investors, believing that they would more likely commit to making improvements."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "land parcels",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Reverend Thomas Davis read the funeral service by the vault with a brief address, followed by a ceremony performed by various members of Washington's Masonic lodge in Alexandria, Virginia."
+            ],
+            "arguments": {
+                "1": "Alexandria",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "By 1799, there were 317 slaves living at Mount Vernon; he owned 124 outright and held 153 for his wife's dower interest."
+            ],
+            "arguments": {
+                "1": "he",
+                "2": "124",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "He served more than 20 years as a vestryman and churchwarden for Fairfax Parish and Truro Parish, Virginia."
+            ],
+            "arguments": {
+                "1": "Truro Parish",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Places and monuments\nMany places and monuments have been named in honor of Washington, most notably the nation's capital Washington, D.C."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        }
+    ]
+}

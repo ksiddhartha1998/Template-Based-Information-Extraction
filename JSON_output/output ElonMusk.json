@@ -1,0 +1,140 @@
+{
+    "document": "ElonMusk.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Born and raised in Pretoria, South Africa, Elon Reeve Musk moved to Canada when Elon Reeve Musk was 17 to attend Queen's University."
+            ],
+            "arguments": {
+                "1": "Pretoria",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Elon Reeve Musk subsequently co-founded Zip2, a web software company, which was acquired by Compaq for $340 million in 1999."
+            ],
+            "arguments": {
+                "1": "Compaq",
+                "2": "which",
+                "3": "$340 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\nElon Reeve Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa, the son of Maye Musk (ne Haldeman), a model and dietitian from Regina, Saskatchewan, Canada, and Errol Musk, a South African electromechanical engineer, pilot, and sailor."
+            ],
+            "arguments": {
+                "1": "Regina",
+                "2": "Saskatchewan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\nElon Reeve Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa, the son of Maye Musk (ne Haldeman), a model and dietitian from Regina, Saskatchewan, Canada, and Errol Musk, a South African electromechanical engineer, pilot, and sailor."
+            ],
+            "arguments": {
+                "1": "Pretoria",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\nElon Reeve Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa, the son of Maye Musk (ne Haldeman), a model and dietitian from Regina, Saskatchewan, Canada, and Errol Musk, a South African electromechanical engineer, pilot, and sailor."
+            ],
+            "arguments": {
+                "1": "Pretoria",
+                "2": "Transvaal"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\nElon Reeve Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa, the son of Maye Musk (ne Haldeman), a model and dietitian from Regina, Saskatchewan, Canada, and Errol Musk, a South African electromechanical engineer, pilot, and sailor."
+            ],
+            "arguments": {
+                "1": "Transvaal",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Early life\nElon Reeve Musk was born on June 28, 1971, in Pretoria, Transvaal, South Africa, the son of Maye Musk (ne Haldeman), a model and dietitian from Regina, Saskatchewan, Canada, and Errol Musk, a South African electromechanical engineer, pilot, and sailor."
+            ],
+            "arguments": {
+                "1": "Saskatchewan",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Knowing it would be easy to get to the United States from Canada, the United States moved to Canada against his father's wishes in June 1989, just before his 18th birthday, after obtaining a Canadian passport through his Canadian-born mother."
+            ],
+            "arguments": {
+                "1": "Canada",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Compaq acquired Zip2 for US$307 million in cash and US$34 million in stock options in February 1999."
+            ],
+            "arguments": {
+                "1": "Compaq",
+                "2": "Zip2",
+                "3": "US$34 million",
+                "4": "",
+                "5": "February 1999"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In October 2002, PayPal was acquired by eBay for US$1.5 billion in stock, of which Musk received US$165 million."
+            ],
+            "arguments": {
+                "1": "eBay",
+                "2": "PayPal",
+                "3": "US$165 million",
+                "4": "",
+                "5": "October 2002"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Before its sale, Musk, who was the company's largest shareholder, owned 11.7% of PayPal's shares."
+            ],
+            "arguments": {
+                "1": "Musk",
+                "2": "11.7%",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In July 2017, Musk purchased the domain x.com from PayPal for an undisclosed amount, stating that PayPal has sentimental value to him."
+            ],
+            "arguments": {
+                "1": "Musk",
+                "2": "the domain",
+                "3": "",
+                "4": "",
+                "5": "PayPal"
+            }
+        }
+    ]
+}

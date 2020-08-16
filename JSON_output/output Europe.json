@@ -1,0 +1,317 @@
+{
+    "document": "Europe.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Other hominid remains, dating back roughly 1 million years, have been discovered in Atapuerca, Spain."
+            ],
+            "arguments": {
+                "1": "Atapuerca",
+                "2": "Spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Patrons in Italy, including the Medici family of Florentine bankers and the Popes in Rome, funded prolific quattrocento and cinquecento artists such as Raphael, Michelangelo, and Leonardo da Vinci."
+            ],
+            "arguments": {
+                "1": "Rome",
+                "2": "Italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In the aftermath of the Peace of Westphalia, France rose to predominance within Europe."
+            ],
+            "arguments": {
+                "1": "the Peace of Westphalia",
+                "2": "France"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most European nations were drawn into the war, which was fought between the Entente Powers (France, Belgium, Serbia, Portugal, Russia, the United Kingdom, and later Italy, Greece, Romania, and the United States) and the Central Powers (Austria-Hungary, Germany, Bulgaria, and the Ottoman Empire)."
+            ],
+            "arguments": {
+                "1": "Belgium",
+                "2": "Serbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most European nations were drawn into the war, which was fought between the Entente Powers (France, Belgium, Serbia, Portugal, Russia, the United Kingdom, and later Italy, Greece, Romania, and the United States) and the Central Powers (Austria-Hungary, Germany, Bulgaria, and the Ottoman Empire)."
+            ],
+            "arguments": {
+                "1": "Portugal",
+                "2": "Russia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most European nations were drawn into the war, which was fought between the Entente Powers (France, Belgium, Serbia, Portugal, Russia, the United Kingdom, and later Italy, Greece, Romania, and the United States) and the Central Powers (Austria-Hungary, Germany, Bulgaria, and the Ottoman Empire)."
+            ],
+            "arguments": {
+                "1": "France",
+                "2": "Belgium"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most European nations were drawn into the war, which was fought between the Entente Powers (France, Belgium, Serbia, Portugal, Russia, the United Kingdom, and later Italy, Greece, Romania, and the United States) and the Central Powers (Austria-Hungary, Germany, Bulgaria, and the Ottoman Empire)."
+            ],
+            "arguments": {
+                "1": "Russia",
+                "2": "the United Kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Most European nations were drawn into the war, which was fought between the Entente Powers (France, Belgium, Serbia, Portugal, Russia, the United Kingdom, and later Italy, Greece, Romania, and the United States) and the Central Powers (Austria-Hungary, Germany, Bulgaria, and the Ottoman Empire)."
+            ],
+            "arguments": {
+                "1": "Serbia",
+                "2": "Portugal"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In 1933, Hitler became the leader of Germany and began to work towards his goal of building Greater Germany."
+            ],
+            "arguments": {
+                "1": "Hitler",
+                "2": "the leader",
+                "3": "Germany;Greater Germany",
+                "4": "Germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Germany re-expanded and took back the Saarland and Rhineland in 1935 and 1936."
+            ],
+            "arguments": {
+                "1": "Rhineland",
+                "2": "Germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Later that year, following the Munich Agreement signed by Germany, France, the United Kingdom and Italy, Germany annexed the Sudetenland, which was a part of Czechoslovakia inhabited by ethnic Germans, and in early 1939, the remainder of Czechoslovakia was split into the Protectorate of Bohemia and Moravia, controlled by Germany, and the Slovak Republic."
+            ],
+            "arguments": {
+                "1": "Germany",
+                "2": "Germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With tensions mounting between Germany and Poland over the future of Danzig, the Germans turned to the Soviets, and signed the MolotovRibbentrop Pact, which allowed the Soviets to invade the Baltic states and parts of Poland and Romania."
+            ],
+            "arguments": {
+                "1": "Danzig",
+                "2": "Poland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 C (14 F) higher than those in Calgary, and Berlin, Germany; Calgary, Canada; and Irkutsk are almost 22 C (40 F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "Germany",
+                "2": "Calgary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 C (14 F) higher than those in Calgary, and Berlin, Germany; Calgary, Canada; and Irkutsk are almost 22 C (40 F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "Calgary",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berlin, Germany; Calgary, Canada; and Irkutsk, in the Asian part of Russia, lie on around the same latitude; January temperatures in Berlin average around 8 C (14 F) higher than those in Calgary, and Berlin, Germany; Calgary, Canada; and Irkutsk are almost 22 C (40 F) higher than average temperatures in Irkutsk."
+            ],
+            "arguments": {
+                "1": "Berlin",
+                "2": "Germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "However, Churchill, Manitoba, Canada, is on roughly the same latitude and has an average temperature of 6.5 C (20.3 F), giving it a nearly subarctic climate."
+            ],
+            "arguments": {
+                "1": "Manitoba",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The country with the smallest percentage of forested area is Iceland (1%), while the most forested country is Finland (77%)."
+            ],
+            "arguments": {
+                "1": "Iceland",
+                "2": "Finland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "Estonia",
+                "2": "Finland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A distinct non-Indo-European family of Uralic languages (Estonian, Finnish, Hungarian, Erzya, Komi, Mari, Moksha, and Udmurt) is spoken mainly in Estonia, Finland, Hungary, and parts of Russia."
+            ],
+            "arguments": {
+                "1": "Finland",
+                "2": "Hungary"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "Madrid",
+                "2": "Barcelona"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "Barcelona",
+                "2": "Berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available) London covers the largest population, followed in order by Paris, Madrid, Barcelona, Berlin, the Ruhr area, Rome, Milan, Athens and Warsaw."
+            ],
+            "arguments": {
+                "1": "Paris",
+                "2": "Madrid"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "Kazakhstan",
+                "2": "North Cyprus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "North Cyprus",
+                "2": "Turkey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "Albania",
+                "2": "Kosovo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "Kosovo",
+                "2": "Kazakhstan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "Azerbaijan",
+                "2": "North Caucasus"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "Turkey",
+                "2": "Azerbaijan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The second most popular religion is Islam (6%) concentrated mainly in the Balkans and eastern Europe (Bosnia and Herzegovina, Albania, Kosovo, Kazakhstan, North Cyprus, Turkey, Azerbaijan, North Caucasus, and the Volga-Ural region)."
+            ],
+            "arguments": {
+                "1": "Bosnia and Herzegovina",
+                "2": "Albania"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "Estonia",
+                "2": "Sweden"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are a particularly high number of self-described non-religious people in the Czech Republic, Estonia, Sweden, former East Germany, and France."
+            ],
+            "arguments": {
+                "1": "the Czech Republic",
+                "2": "Estonia"
+            }
+        }
+    ]
+}

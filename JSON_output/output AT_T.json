@@ -1,0 +1,635 @@
+{
+    "document": "AT_T.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "AT&T Inc. is an American multinational conglomerate holding company headquartered at Whitacre Tower in Downtown Dallas, Texas."
+            ],
+            "arguments": {
+                "1": "Downtown Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2005, SBC purchased its former parent AT&T Corporation and took on its branding, with the merged entity naming itself AT&T Inc. and using its iconic logo and stock-trading symbol."
+            ],
+            "arguments": {
+                "1": "SBC",
+                "2": "its former parent",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2006, AT&T Inc. acquired BellSouth, the last independent Baby Bell company, making their formerly joint venture Cingular Wireless (which had acquired AT&T Wireless in 2004) wholly owned and rebranding their formerly joint venture Cingular Wireless (which had acquired AT&T Wireless in 2004) as AT&T Mobility."
+            ],
+            "arguments": {
+                "1": "AT&T Inc.",
+                "2": "BellSouth",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2006, AT&T Inc. acquired BellSouth, the last independent Baby Bell company, making their formerly joint venture Cingular Wireless (which had acquired AT&T Wireless in 2004) wholly owned and rebranding their formerly joint venture Cingular Wireless (which had acquired AT&T Wireless in 2004) as AT&T Mobility."
+            ],
+            "arguments": {
+                "1": "which",
+                "2": "AT&T Wireless",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2006, AT&T Inc. acquired BellSouth, the last independent Baby Bell company, making their formerly joint venture Cingular Wireless (which had acquired AT&T Wireless in 2004) wholly owned and rebranding their formerly joint venture Cingular Wireless (which had acquired AT&T Wireless in 2004) as AT&T Mobility."
+            ],
+            "arguments": {
+                "1": "which",
+                "2": "AT&T Wireless",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "One of that company's subsidiaries was American Telephone and Telegraph Company (AT&T), established in 1885, which acquired the Bell Company on December 31, 1899, for legal reasons, leaving AT&T as the main company."
+            ],
+            "arguments": {
+                "1": "which",
+                "2": "the Bell Company",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In the later half of the 1990s, the company acquired several other telecommunications companies, including some Baby Bells, while selling its cable business."
+            ],
+            "arguments": {
+                "1": "the company",
+                "2": "several other telecommunications companies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2005, SBC purchased AT&T for $16 billion."
+            ],
+            "arguments": {
+                "1": "SBC",
+                "2": "AT&T",
+                "3": "$16 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "AT&T purchased the Mexican carrier Iusacell in late 2014, and two months later purchased the Mexican wireless business of NII Holdings, merging the two companies to create AT&T Mexico."
+            ],
+            "arguments": {
+                "1": "AT&T",
+                "2": "the Mexican carrier",
+                "3": "",
+                "4": "",
+                "5": "NII Holdings"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In July 2015, AT&T purchased DirecTV for $48.5 billion, or $67.1 billion including assumed debt, subject to certain conditions."
+            ],
+            "arguments": {
+                "1": "AT&T",
+                "2": "DirecTV",
+                "3": "$67.1 billion",
+                "4": "",
+                "5": "July 2015"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "AT&T also owns approximately a 2% stake in Canadian-domiciled entertainment company Lionsgate."
+            ],
+            "arguments": {
+                "1": "AT&T",
+                "2": "approximately a 2% stake",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In order for AT&T to fully acquire Time Warner, the Department of Justice stated that the company must divest either DirecTV or Turner Broadcasting System."
+            ],
+            "arguments": {
+                "1": "AT&T",
+                "2": "Time Warner",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The proposed deal would give AT&T significant holdings in the media industry; AT&T's competitor Comcast had previously acquired NBCUniversal in a similar bid to increase its media holdings, in concert with its ownership of television and internet providers."
+            ],
+            "arguments": {
+                "1": "AT&T's competitor",
+                "2": "NBCUniversal",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "    Ameritech, acquired by SBC in 1999\n    AT&T Corp., acquired by SBC in 2005\n    BellSouth, acquired by AT&T in 2006\n    Pacific Telesis, acquired by SBC in 1997\n    Southwestern Bell, rebranded as SBC Communications in 1995, acquired AT&T Corporation and rebranded as AT&T Inc. in 2005"
+            ],
+            "arguments": {
+                "1": "AT&T Corp.",
+                "2": "Southwestern Bell",
+                "3": "",
+                "4": "",
+                "5": "Pacific Telesis"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "    Ameritech, acquired by SBC in 1999\n    AT&T Corp., acquired by SBC in 2005\n    BellSouth, acquired by AT&T in 2006\n    Pacific Telesis, acquired by SBC in 1997\n    Southwestern Bell, rebranded as SBC Communications in 1995, acquired AT&T Corporation and rebranded as AT&T Inc. in 2005"
+            ],
+            "arguments": {
+                "1": "SBC",
+                "2": "AT&T Corporation",
+                "3": "",
+                "4": "",
+                "5": "Pacific Telesis"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On October 25, 2014, Frontier Communications took over control of the AT&T landline network in Connecticut after being approved by state utility regulators."
+            ],
+            "arguments": {
+                "1": "Frontier Communications",
+                "2": "control",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "AT&T Inc. previously relocated its corporate headquarters to San Antonio from St. Louis, Missouri, in 1992, when AT&T Inc. was then named Southwestern Bell Corporation."
+            ],
+            "arguments": {
+                "1": "St. Louis",
+                "2": "Missouri"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Atlanta, Georgia, continues to be the headquarters for AT&T Mobility, with significant offices in Redmond, Washington, the former home of AT&T Wireless."
+            ],
+            "arguments": {
+                "1": "Redmond",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Atlanta, Georgia, continues to be the headquarters for AT&T Mobility, with significant offices in Redmond, Washington, the former home of AT&T Wireless."
+            ],
+            "arguments": {
+                "1": "Atlanta",
+                "2": "Georgia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bedminster, New Jersey, is the headquarters for the company's Global Business Services group and AT&T Labs."
+            ],
+            "arguments": {
+                "1": "Bedminster",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The company is also active in Mexico, and The company was announced on November 7, 2014, that Mexican carrier Iusacell is being acquired by AT&T."
+            ],
+            "arguments": {
+                "1": "AT&T.",
+                "2": "Mexican carrier Iusacell",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On April 30, 2015, AT&T acquired wireless operations Nextel Mexico from NII Holdings (now AT&T Mexico)."
+            ],
+            "arguments": {
+                "1": "AT&T",
+                "2": "wireless operations Nextel Mexico",
+                "3": "",
+                "4": "",
+                "5": "NII Holdings"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The policy, which took effect June 23, 2006, says that \"AT&T  not customers  owns customers' confidential info and can use it 'to protect its legitimate business interests, safeguard others, or respond to legal process.'\""
+            ],
+            "arguments": {
+                "1": "AT&T",
+                "2": "customers' confidential info",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The investigation revealed the theft of details of approximately 280,000 people from call centres in Mexico, Colombia and the Philippines."
+            ],
+            "arguments": {
+                "1": "Mexico",
+                "2": "Colombia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Oakland",
+                "2": "California\n    AT&T Switching Center"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Nashville",
+                "2": "Tennessee"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Atlanta",
+                "2": "Georgia\n    AT&T Switching Center"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Cleveland",
+                "2": "Ohio"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Minneapolis",
+                "2": "MN"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Indianapolis",
+                "2": "Indiana\n    AT&T Building"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Detroit",
+                "2": "Michigan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Birmingham",
+                "2": "Alabama\n    AT&T Corporate Center"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Atlanta",
+                "2": "Georgia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "St. Louis",
+                "2": "Missouri\n    AT&T City Center"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "El Segundo",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Kingman",
+                "2": "Arizona"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Oakland",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Detroit",
+                "2": "Michigan\n    MichiganAT&T Building  "
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    Whitacre Tower (One AT&T Plaza)  Corporate Headquarters, Dallas, Texas\n    AT&T 220 Building  building in Indianapolis, Indiana\n    AT&T Building  building in Detroit, Michigan\n    AT&T Building  building in Indianapolis, Indiana\n    AT&T Building  building in Kingman, Arizona\n    AT&T Building    (aka \"The Batman Building\") in Nashville, Tennessee\n    AT&T Building  building in Omaha, Nebraska\n    AT&T Building Addition  building in Detroit, Michigan\n    MichiganAT&T Building  building in San Diego\n    AT&T Center  building in Los Angeles\n    AT&T Center  building in St. Louis, Missouri\n    AT&T City Center  building in Birmingham, Alabama\n    AT&T Corporate Center  building in Chicago, Illinois\n    AT&T Huron Road Building  building in Cleveland, Ohio\n    AT&T Lenox Park Campus  AT&T Mobility Headquarters in DeKalb County just outside Atlanta, Georgia\n    AT&T Midtown Center  building in Atlanta, Georgia\n    AT&T Switching Center  building in Los Angeles\n    AT&T Switching Center  building in Oakland, California\n    AT&T Switching Center  building in San Francisco\n    AT&T Tower - building in Minneapolis, MN\n    AT&T Building - building in (Meriden), CT\n    AT&T Entertainment Group HQ - DirecTV corporate campus in El Segundo, California"
+            ],
+            "arguments": {
+                "1": "Chicago",
+                "2": "Illinois\n    AT&T Huron Road Building"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    AT&T Center  San Antonio, Texas (formerly SBC Center)\n    AT&T Field  Chattanooga, Tennessee (formerly BellSouth Park)\n    AT&T Park  San Francisco, California (formerly Pacific Bell Park, SBC Park)\n    AT&T Plaza  Chicago, Illinois (public space that hosts the Cloud Gate sculpture in Millennium Park)\n    AT&T Plaza  Dallas, Texas (plaza in front of the American Airlines Center at Victory Park)\n    AT&T Performing Arts Center  Dallas, Texas\n    AT&T Stadium  Arlington, Texas (formerly Dallas Cowboys Stadium)\n    Jones AT&T Stadium  Lubbock, Texas (formerly Clifford B. and Audrey Jones Stadium, Jones SBC Stadium)\n    TPC San Antonio  San Antonio, Texas (AT&T Oaks Course & AT&T Canyons Course)\n    War Memorial Stadium, AT&T Field - Little Rock, Arkansas"
+            ],
+            "arguments": {
+                "1": "San Antonio",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    AT&T Center  San Antonio, Texas (formerly SBC Center)\n    AT&T Field  Chattanooga, Tennessee (formerly BellSouth Park)\n    AT&T Park  San Francisco, California (formerly Pacific Bell Park, SBC Park)\n    AT&T Plaza  Chicago, Illinois (public space that hosts the Cloud Gate sculpture in Millennium Park)\n    AT&T Plaza  Dallas, Texas (plaza in front of the American Airlines Center at Victory Park)\n    AT&T Performing Arts Center  Dallas, Texas\n    AT&T Stadium  Arlington, Texas (formerly Dallas Cowboys Stadium)\n    Jones AT&T Stadium  Lubbock, Texas (formerly Clifford B. and Audrey Jones Stadium, Jones SBC Stadium)\n    TPC San Antonio  San Antonio, Texas (AT&T Oaks Course & AT&T Canyons Course)\n    War Memorial Stadium, AT&T Field - Little Rock, Arkansas"
+            ],
+            "arguments": {
+                "1": "San Francisco",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    AT&T Center  San Antonio, Texas (formerly SBC Center)\n    AT&T Field  Chattanooga, Tennessee (formerly BellSouth Park)\n    AT&T Park  San Francisco, California (formerly Pacific Bell Park, SBC Park)\n    AT&T Plaza  Chicago, Illinois (public space that hosts the Cloud Gate sculpture in Millennium Park)\n    AT&T Plaza  Dallas, Texas (plaza in front of the American Airlines Center at Victory Park)\n    AT&T Performing Arts Center  Dallas, Texas\n    AT&T Stadium  Arlington, Texas (formerly Dallas Cowboys Stadium)\n    Jones AT&T Stadium  Lubbock, Texas (formerly Clifford B. and Audrey Jones Stadium, Jones SBC Stadium)\n    TPC San Antonio  San Antonio, Texas (AT&T Oaks Course & AT&T Canyons Course)\n    War Memorial Stadium, AT&T Field - Little Rock, Arkansas"
+            ],
+            "arguments": {
+                "1": "Lubbock",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    AT&T Center  San Antonio, Texas (formerly SBC Center)\n    AT&T Field  Chattanooga, Tennessee (formerly BellSouth Park)\n    AT&T Park  San Francisco, California (formerly Pacific Bell Park, SBC Park)\n    AT&T Plaza  Chicago, Illinois (public space that hosts the Cloud Gate sculpture in Millennium Park)\n    AT&T Plaza  Dallas, Texas (plaza in front of the American Airlines Center at Victory Park)\n    AT&T Performing Arts Center  Dallas, Texas\n    AT&T Stadium  Arlington, Texas (formerly Dallas Cowboys Stadium)\n    Jones AT&T Stadium  Lubbock, Texas (formerly Clifford B. and Audrey Jones Stadium, Jones SBC Stadium)\n    TPC San Antonio  San Antonio, Texas (AT&T Oaks Course & AT&T Canyons Course)\n    War Memorial Stadium, AT&T Field - Little Rock, Arkansas"
+            ],
+            "arguments": {
+                "1": "Chicago",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    AT&T Center  San Antonio, Texas (formerly SBC Center)\n    AT&T Field  Chattanooga, Tennessee (formerly BellSouth Park)\n    AT&T Park  San Francisco, California (formerly Pacific Bell Park, SBC Park)\n    AT&T Plaza  Chicago, Illinois (public space that hosts the Cloud Gate sculpture in Millennium Park)\n    AT&T Plaza  Dallas, Texas (plaza in front of the American Airlines Center at Victory Park)\n    AT&T Performing Arts Center  Dallas, Texas\n    AT&T Stadium  Arlington, Texas (formerly Dallas Cowboys Stadium)\n    Jones AT&T Stadium  Lubbock, Texas (formerly Clifford B. and Audrey Jones Stadium, Jones SBC Stadium)\n    TPC San Antonio  San Antonio, Texas (AT&T Oaks Course & AT&T Canyons Course)\n    War Memorial Stadium, AT&T Field - Little Rock, Arkansas"
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    AT&T Center  San Antonio, Texas (formerly SBC Center)\n    AT&T Field  Chattanooga, Tennessee (formerly BellSouth Park)\n    AT&T Park  San Francisco, California (formerly Pacific Bell Park, SBC Park)\n    AT&T Plaza  Chicago, Illinois (public space that hosts the Cloud Gate sculpture in Millennium Park)\n    AT&T Plaza  Dallas, Texas (plaza in front of the American Airlines Center at Victory Park)\n    AT&T Performing Arts Center  Dallas, Texas\n    AT&T Stadium  Arlington, Texas (formerly Dallas Cowboys Stadium)\n    Jones AT&T Stadium  Lubbock, Texas (formerly Clifford B. and Audrey Jones Stadium, Jones SBC Stadium)\n    TPC San Antonio  San Antonio, Texas (AT&T Oaks Course & AT&T Canyons Course)\n    War Memorial Stadium, AT&T Field - Little Rock, Arkansas"
+            ],
+            "arguments": {
+                "1": "Arlington",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    AT&T Byron Nelson - Irving, Texas (golf)\n    AT&T Cotton Bowl Classic (formerly Mobil Cotton Bowl Classic, Southwestern Bell Cotton Bowl Classic, SBC Cotton Bowl Classic)  played in Arlington, Texas, at AT&T Stadium (football)\n    AT&T National  Washington, D.C. (golf)\n    AT&T Pebble Beach National Pro-Am (golf)\n    AT&T Red River Rivalry  Dallas, Texas (formerly Red River Shootout, SBC Red River Rivalry) (football)\n    Major League Soccer and the United States Soccer Federation, including the U.S. men's and U.S. women's national teams and the Major League Soccer All-Star Game from 2009\n    Mexico national football team\n    United States Olympic team\n    National Collegiate Athletic Association (Corporate Champion)\n    AT&T American Cup, artistic gymnastics competition."
+            ],
+            "arguments": {
+                "1": "Arlington",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "    AT&T Byron Nelson - Irving, Texas (golf)\n    AT&T Cotton Bowl Classic (formerly Mobil Cotton Bowl Classic, Southwestern Bell Cotton Bowl Classic, SBC Cotton Bowl Classic)  played in Arlington, Texas, at AT&T Stadium (football)\n    AT&T National  Washington, D.C. (golf)\n    AT&T Pebble Beach National Pro-Am (golf)\n    AT&T Red River Rivalry  Dallas, Texas (formerly Red River Shootout, SBC Red River Rivalry) (football)\n    Major League Soccer and the United States Soccer Federation, including the U.S. men's and U.S. women's national teams and the Major League Soccer All-Star Game from 2009\n    Mexico national football team\n    United States Olympic team\n    National Collegiate Athletic Association (Corporate Champion)\n    AT&T American Cup, artistic gymnastics competition."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Woodbury Telephone: merged into Southern New England Telephone on June 1, 2007..    Randall L. Stephenson  chief executive officer (CEO)."
+            ],
+            "arguments": {
+                "1": "Randall L. Stephenson  ",
+                "2": "chief executive officer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "John J. Stephens  senior executive vice president and chief financial officer (CFO)."
+            ],
+            "arguments": {
+                "1": "John J. Stephens  ",
+                "2": "senior executive vice president",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "David S. Huntley  senior executive vice president and chief compliance officer."
+            ],
+            "arguments": {
+                "1": "David S. Huntley  ",
+                "2": "senior executive vice president",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Lori Lee  CEO of AT&T Latin America and global marketing officer."
+            ],
+            "arguments": {
+                "1": "Lori Lee  ",
+                "2": "CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "David R. McAtee II  senior executive vice president and general counsel."
+            ],
+            "arguments": {
+                "1": "David R. McAtee II  ",
+                "2": "senior executive vice president;general counsel",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Brian Lesser  CEO of Xandr and AT&T Services, Inc..    John Donovan  CEO of AT&T Communications."
+            ],
+            "arguments": {
+                "1": "Brian Lesser  ",
+                "2": "CEO",
+                "3": "Inc",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Brian Lesser  CEO of Xandr and AT&T Services, Inc..    John Donovan  CEO of AT&T Communications."
+            ],
+            "arguments": {
+                "1": "John Donovan  ",
+                "2": "CEO",
+                "3": "Inc",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "John Stankey  CEO of WarnerMedia."
+            ],
+            "arguments": {
+                "1": "John Stankey  ",
+                "2": "CEO",
+                "3": "",
+                "4": ""
+            }
+        }
+    ]
+}

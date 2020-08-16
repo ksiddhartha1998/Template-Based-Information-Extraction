@@ -1,0 +1,316 @@
+{
+    "document": "JPMorganChase.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Both the retail and commercial bank and the bank's corporate headquarters are located at 270 Park Avenue in Midtown Manhattan, New York City."
+            ],
+            "arguments": {
+                "1": "Midtown Manhattan",
+                "2": "New York City"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Weakened by the real estate collapse in the early 1990s, the real estate collapse in the early 1990s was acquired by Chemical Bank in 1996, retaining the Chase name."
+            ],
+            "arguments": {
+                "1": "Chemical Bank",
+                "2": "the real estate collapse",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1999, the new Chase acquired San Francisco-based Hambrecht & Quist for $1.35 billion."
+            ],
+            "arguments": {
+                "1": "the new Chase",
+                "2": "San Francisco-based Hambrecht & Quist",
+                "3": "$1.35 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In April 2000, UK-based Robert Fleming & Co. was purchased by the new Chase Manhattan Bank for $7.7 billion."
+            ],
+            "arguments": {
+                "1": "the new Chase Manhattan Bank",
+                "2": "UK-based Robert Fleming & Co.",
+                "3": "$7.7 billion",
+                "4": "",
+                "5": "April 2000"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1996, Chemical Bank acquired Chase Manhattan."
+            ],
+            "arguments": {
+                "1": "Chemical Bank",
+                "2": "Chase Manhattan",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Arguably the most influential financial institution of its era, J.P. Morgan & Company\n financed the formation of the United States Steel Corporation, which took over the business of Andrew Carnegie and others and was the world's first billion dollar corporation."
+            ],
+            "arguments": {
+                "1": "which",
+                "2": "the business",
+                "3": "",
+                "4": "",
+                "5": "Andrew Carnegie"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1984, the group finally purchased the Purdue National Corporation of Lafayette Indiana, uniting a history between the two figures of Salmon Portland Chase and John Purdue."
+            ],
+            "arguments": {
+                "1": "the group",
+                "2": "the Purdue National Corporation of Lafayette Indiana",
+                "3": "",
+                "4": "",
+                "5": "Salmon Portland Chase"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Bank One Corporation was formed upon the 1998 merger between Bank One of Columbus, Ohio and First Chicago NBD."
+            ],
+            "arguments": {
+                "1": "Columbus",
+                "2": "Ohio"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Under the revised terms, JPMorgan also immediately acquired a 39.5% stake in Bear Stearns (using newly issued shares) at the new offer price and gained a commitment from the board (representing another 10% of the share capital) that its members would vote in favor of the new deal."
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "a 39.5% stake",
+                "3": "",
+                "4": "",
+                "5": "Bear Stearns"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Washington Mutual\nOn September 25, 2008, JPMorgan Chase bought most of the banking operations of Washington Mutual from the receivership of the Federal Deposit Insurance Corporation."
+            ],
+            "arguments": {
+                "1": "JPMorgan Chase",
+                "2": "most",
+                "3": "",
+                "4": "",
+                "5": "the Federal Deposit Insurance Corporation"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Through the acquisition, JPMorgan now owns the former accounts of Providian Financial, a credit card issuer WaMu acquired in 2005."
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "the former accounts",
+                "3": "",
+                "4": "",
+                "5": "Providian Financial"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Other recent acquisitions\nIn 2006, JPMorgan Chase purchased Collegiate Funding Services, a portfolio company of private equity firm Lightyear Capital, for $663 million."
+            ],
+            "arguments": {
+                "1": "JPMorgan Chase",
+                "2": "Collegiate Funding Services",
+                "3": "$663 million",
+                "4": "",
+                "5": "private equity firm Lightyear Capital"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In April 2006, JPMorgan Chase acquired Bank of New York Mellon's retail and small business banking network."
+            ],
+            "arguments": {
+                "1": "JPMorgan Chase",
+                "2": "Bank of New York Mellon's retail and small business banking network",
+                "3": "",
+                "4": "",
+                "5": "April 2006"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In March 2008, JPMorgan acquired the UK-based carbon offsetting company ClimateCare."
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "the UK-based carbon offsetting company",
+                "3": "",
+                "4": "",
+                "5": "March 2008"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In November 2009, JPMorgan announced JPMorgan would acquire the balance of JPMorgan Cazenove, an advisory and underwriting joint venture established in 2004 with the Cazenove Group, for GBP1 billion."
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "the balance",
+                "3": "",
+                "4": "",
+                "5": "JPMorgan Cazenove"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In January 2013, JPMorgan acquired Bloomspot, a San Francisco-based startup in the \"deals\" space for $35 million."
+            ],
+            "arguments": {
+                "1": "JPMorgan",
+                "2": "Bloomspot",
+                "3": "$35 million",
+                "4": "",
+                "5": "January 2013"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Structure\nJPMorgan Chase & Co owns five bank subsidiaries in the United States: JPMorgan Chase Bank, National Association; Chase Bank USA, National Association; Custodial Trust Company; JPMorgan Chase Bank, Dearborn; and J.P. Morgan Bank and Trust Company, National Association."
+            ],
+            "arguments": {
+                "1": "JPMorgan Chase & Co",
+                "2": "five bank subsidiaries",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Jefferson County, Alabama\nIn November 2009, a week after Birmingham, Alabama Mayor Larry Langford was convicted for financial crimes related to bond swaps for Jefferson County, Alabama, JPMorgan Chase & Co agreed to a $722 million settlement with the U.S. Securities and Exchange Commission to end a probe into the sales of derivatives that allegedly contributed to the near-bankruptcy of the county."
+            ],
+            "arguments": {
+                "1": "Birmingham",
+                "2": "Alabama Mayor Larry Langford"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Jefferson County, Alabama\nIn November 2009, a week after Birmingham, Alabama Mayor Larry Langford was convicted for financial crimes related to bond swaps for Jefferson County, Alabama, JPMorgan Chase & Co agreed to a $722 million settlement with the U.S. Securities and Exchange Commission to end a probe into the sales of derivatives that allegedly contributed to the near-bankruptcy of the county."
+            ],
+            "arguments": {
+                "1": "Birmingham",
+                "2": "Alabama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Jefferson County, Alabama\nIn November 2009, a week after Birmingham, Alabama Mayor Larry Langford was convicted for financial crimes related to bond swaps for Jefferson County, Alabama, JPMorgan Chase & Co agreed to a $722 million settlement with the U.S. Securities and Exchange Commission to end a probe into the sales of derivatives that allegedly contributed to the near-bankruptcy of the county."
+            ],
+            "arguments": {
+                "1": "Jefferson County",
+                "2": "Alabama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "JPMorgan Chase Bank, N.A, New York, NY (\"JPMC\") has agreed to remit $88,300,000 to settle potential civil liability for apparent violations of: the Cuban Assets Control Regulations (\"CACR\"), 31 C.F.R."
+            ],
+            "arguments": {
+                "1": "New York",
+                "2": "NY"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "JPMorgan Chase Bank, N.A, New York, NY (\"JPMC\") has agreed to remit $88,300,000 to settle potential civil liability for apparent violations of: the Cuban Assets Control Regulations (\"CACR\"), 31 C.F.R."
+            ],
+            "arguments": {
+                "1": "N.A",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Madoff fraud\nBernie Madoff opened a business account at Chemical Bank in 1986 and maintained Bernie Madoff until 2008, long after Chemical acquired Chase."
+            ],
+            "arguments": {
+                "1": "Chemical",
+                "2": "Chase",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The lawsuit, which was filed on behalf of shareholders against Chief Executive Jamie Dimon and other high-ranking JPMorgan employees, used statements made by Bernie Madoff during interviews conducted while in prison in Butner, North Carolina claiming that JPMorgan officials knew of the fraud."
+            ],
+            "arguments": {
+                "1": "Butner",
+                "2": "North Carolina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Chase, the U.S. and Canada, retail, commercial, and credit card bank is headquartered in Chicago at the Chase Tower, Chicago, Illinois."
+            ],
+            "arguments": {
+                "1": "Chicago",
+                "2": "Illinois"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The bank moved some of its operations to the JPMorgan Chase Tower in Houston, when The bank purchased Texas Commerce Bank."
+            ],
+            "arguments": {
+                "1": "The bank",
+                "2": "Texas Commerce Bank",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}

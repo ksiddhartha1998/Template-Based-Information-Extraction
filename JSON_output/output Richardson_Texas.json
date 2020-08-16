@@ -1,0 +1,98 @@
+{
+    "document": "Richardson_Texas.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "More than 5,000 businesses have operations within Richardson's 28 square miles (73 km2), including many of the world's largest telecommunications/networking companies: AT&T, DirectTV, Verizon, Cisco Systems, Samsung, ZTE, MetroPCS, Texas Instruments, Qorvo, and Fujitsu."
+            ],
+            "arguments": {
+                "1": "DirectTV",
+                "2": "Verizon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Settlers from Kentucky and Tennessee came to the Richardson area in the 1840s."
+            ],
+            "arguments": {
+                "1": "Tennessee",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The cities of Dallas, Plano and Garland, Texas constitute almost all of the Richardson border apart from the municipality's extreme northeastern \"panhandle.\""
+            ],
+            "arguments": {
+                "1": "Garland",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The cities of Dallas, Plano and Garland, Texas constitute almost all of the Richardson border apart from the municipality's extreme northeastern \"panhandle.\""
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The university owns an additional 265 acres (1.07 km2) in Richardson, adjacent to the campus, between Synergy Park Boulevard and the President George Bush Turnpike."
+            ],
+            "arguments": {
+                "1": "The university",
+                "2": "an additional 265 acres",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools"
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas: https://www.thechicagoschool.edu/dallas/\nPrimary and secondary schools\nPublic schools"
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "San Antonio, Texas: Historical Publishing Network, 2002."
+            ],
+            "arguments": {
+                "1": "San Antonio",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson, Texas: University of Texas at Dallas Center for Continuing Education, c1984-85."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Texas"
+            }
+        }
+    ]
+}

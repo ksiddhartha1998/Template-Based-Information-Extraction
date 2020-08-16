@@ -1,0 +1,334 @@
+{
+    "document": "CitiGroup.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "Citigroup owns Citicorp, the holding company for Citibank, as well as several international subsidiaries."
+            ],
+            "arguments": {
+                "1": "Citigroup",
+                "2": "Citicorp",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Two years later, Weill mastered the buyout of Primerica Financial Servicesa conglomerate that had already bought life insurance company A L Williams as well as brokerage firm Smith Barney."
+            ],
+            "arguments": {
+                "1": "that",
+                "2": "life insurance company A L Williams",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "During this period, Travelers acquired Shearson Lehmana retail brokerage and asset management firm that was headed by Weill until 1985and merged it with Smith Barney."
+            ],
+            "arguments": {
+                "1": "Travelers",
+                "2": "Shearson Lehmana retail brokerage and asset management firm",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Ownership of Salomon Brothers (19972003)\nIn November 1997, Travelers Group (which had been renamed again in April 1995 when they merged with Aetna Property and Casualty, Inc.), acquired Salomon Brothers, a major bond dealer and bulge bracket investment bank, in a $9 billion transaction."
+            ],
+            "arguments": {
+                "1": "Travelers Group",
+                "2": "Salomon Brothers",
+                "3": "",
+                "4": "",
+                "5": "April 1995"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In the transaction, Travelers Group acquired all Citicorp shares for $70 billion in stock, issuing 2.5 new Citigroup shares for each Citicorp share."
+            ],
+            "arguments": {
+                "1": "Travelers Group",
+                "2": "all Citicorp shares",
+                "3": "$70 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Existing shareholders of each company owned about half of the new firm."
+            ],
+            "arguments": {
+                "1": "Existing shareholders",
+                "2": "about half",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2000, Citigroup acquired Associates First Capital Corporation for $31.1 billion in stock, which, until 1989, had been owned by Gulf+Western (now part of National Amusements), and later by Ford Motor Credit Company."
+            ],
+            "arguments": {
+                "1": "Citigroup",
+                "2": "Associates First Capital Corporation",
+                "3": "$31.1 billion",
+                "4": "",
+                "5": "National Amusements"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "A special IRS tax exception given to Citi allowed the US Treasury to sell its shares at a profit, while the US Treasury still owned Citigroup shares, which eventually netted $12 billion."
+            ],
+            "arguments": {
+                "1": "the US Treasury",
+                "2": "Citigroup shares",
+                "3": "$12 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "According to Treasury spokeswoman Nayyera Haq, \"This (IRS tax) rule was designed to stop corporate raiders from using loss corporations to evade taxes, and was never intended to address the unprecedented situation where the government owned shares in banks."
+            ],
+            "arguments": {
+                "1": "the government",
+                "2": "shares",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "New York",
+                "2": "Tokyo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "D.C.",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Expansion of retail banking operations (2011)\nIn 2011, Citi was the first bank to introduce digitized Smart Banking branches in Washington, D.C., New York, Tokyo and Busan (South Korea) while it continued renovating its entire branch network."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "Costa Rica",
+                "2": "El Salvador"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "Panama",
+                "2": "Peru"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "Guam",
+                "2": "the Czech Republic"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "El Salvador",
+                "2": "Guatemala"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "Japan",
+                "2": "Guam"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "the Czech Republic",
+                "2": "Egypt"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "Egypt",
+                "2": "South Korea"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "Peru",
+                "2": "Japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "Nicaragua",
+                "2": "Panama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Downsizing of consumer banking unit (2014)\nIn October 2014, Citigroup announced its exit from consumer banking in 11 markets, including Costa Rica, El Salvador, Guatemala, Nicaragua, Panama, Peru, Japan, Guam, the Czech Republic, Egypt, South Korea (consumer finance only), and Hungary."
+            ],
+            "arguments": {
+                "1": "Guatemala",
+                "2": "Nicaragua"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In November 2015, Springleaf acquired OneMain Financial from Citigroup."
+            ],
+            "arguments": {
+                "1": "Springleaf",
+                "2": "OneMain Financial",
+                "3": "",
+                "4": "",
+                "5": "Citigroup"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Offices\nNew York City\nCitigroup Center, a diagonal-roof skyscraper located in Midtown Manhattan, New York City, is Citigroup's most famous office building, which despite popular belief is not the company's headquarters building."
+            ],
+            "arguments": {
+                "1": "Midtown Manhattan",
+                "2": "New York City"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Citigroup also owns a building in Tribeca, Manhattan at 388 Greenwich Street that serves as headquarters for its Investment and Corporate Banking operations and was the former headquarters of the Travelers Group."
+            ],
+            "arguments": {
+                "1": "Tribeca",
+                "2": "Manhattan"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Citigroup also owns a building in Tribeca, Manhattan at 388 Greenwich Street that serves as headquarters for its Investment and Corporate Banking operations and was the former headquarters of the Travelers Group."
+            ],
+            "arguments": {
+                "1": "Citigroup",
+                "2": "a building",
+                "3": "",
+                "4": "",
+                "5": "the Travelers Group"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Naming rights to Citi Field\nCitigroup owns the naming rights to Citi Field, the home ballpark of the New York Mets Major League Baseball team, via a $400 million, 20-year deal that commenced with the stadium opening in 2009."
+            ],
+            "arguments": {
+                "1": "Citi Field\nCitigroup",
+                "2": "the naming rights",
+                "3": "$400 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "FInRA found that Citigroup did not properly supervise a team of brokers located in Charlotte, N.C., who used misleading sales materials during dozens of seminars and meetings for hundreds of BellSouth employees."
+            ],
+            "arguments": {
+                "1": "Charlotte",
+                "2": "N.C."
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The lawsuit was on behalf of investors who purchased certificates in one of two mortgage-backed securities trusts from Citigroup Mortgage Loan Trust Inc in 2007."
+            ],
+            "arguments": {
+                "1": "who",
+                "2": "certificates",
+                "3": "",
+                "4": "",
+                "5": "Citigroup Mortgage Loan Trust Inc"
+            }
+        }
+    ]
+}

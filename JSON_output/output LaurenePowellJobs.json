@@ -1,0 +1,168 @@
+{
+    "document": "LaurenePowellJobs.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Laurene Powell Jobs (born November 6, 1963) is an American businesswoman, executive and the founder of Emerson Collective, a social impact organization that, among other investing and philanthropic activities, advocates for policies concerning education and immigration reform, social justice and environmental conservation."
+            ],
+            "arguments": {
+                "1": "Laurene Powell Jobs",
+                "2": "an American businesswoman;executive;the founder",
+                "3": "Emerson Collective",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Powell Jobs resides in Palo Alto, California, with her three children."
+            ],
+            "arguments": {
+                "1": "Palo Alto",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Powell Jobs grew up in West Milford, New Jersey."
+            ],
+            "arguments": {
+                "1": "West Milford",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Laurene Powell was a new MBA student and sneaked to the front of the lecture and started up a conversation with Jobs, who was seated next to Powell Jobs."
+            ],
+            "arguments": {
+                "1": "Laurene Powell",
+                "2": "a new MBA student",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On October 3, 2017, reports indicated Powell Jobs had purchased stake in the ownership group Monumental Sports & Entertainment that includes the NBA's Washington Wizards, NHL's Washington Capitals, and Capital One Arena."
+            ],
+            "arguments": {
+                "1": "Powell Jobs",
+                "2": "stake",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 2018, the same list bought a property in San Francisco that had been listed for 16.5 million USD, on Russian Hill."
+            ],
+            "arguments": {
+                "1": "the same list",
+                "2": "a property",
+                "3": "16.5 million USD",
+                "4": "",
+                "5": "May 2018"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "East Palo Alto",
+                "2": "Sacramento"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "Colorado",
+                "2": "Denver"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "New Orleans",
+                "2": "Aurora"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "Aurora",
+                "2": "Colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "San Francisco",
+                "2": "Oakland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "Sacramento",
+                "2": "San Francisco"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "College Track has facilities in East Palo Alto, Sacramento, San Francisco, Oakland, Watts, Boyle Heights, New Orleans, Aurora, Colorado, Denver, and the Washington, D.C., area."
+            ],
+            "arguments": {
+                "1": "Denver",
+                "2": "Colorado"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On July 28, 2017, Powell Jobs' organization Emerson Collective (based in Palo Alto, California) acquired majority ownership of The Atlantic."
+            ],
+            "arguments": {
+                "1": "Palo Alto",
+                "2": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On July 28, 2017, Powell Jobs' organization Emerson Collective (based in Palo Alto, California) acquired majority ownership of The Atlantic."
+            ],
+            "arguments": {
+                "1": "Powell Jobs' organization Emerson Collective",
+                "2": "majority ownership",
+                "3": "",
+                "4": "",
+                "5": "The Atlantic"
+            }
+        }
+    ]
+}

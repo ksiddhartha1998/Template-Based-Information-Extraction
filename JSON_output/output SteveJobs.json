@@ -1,0 +1,281 @@
+{
+    "document": "SteveJobs.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "Steven Paul Jobs",
+                "2": "the chairman;co-founder",
+                "3": "Pixar;Apple Inc.;Pixar",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Jobs was born in San Francisco, California, and put up for adoption."
+            ],
+            "arguments": {
+                "1": "San Francisco",
+                "2": "California"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Apple merged with NeXT in 1997, and Jobs became CEO of his former company within a few months."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "CEO",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "1931), grew up in Homs, Syria, and was born into an Arab Muslim household."
+            ],
+            "arguments": {
+                "1": "Homs",
+                "2": "Syria"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "As a doctoral candidate, Jandali was a teaching assistant for a course Schieble was taking, although both were the same age."
+            ],
+            "arguments": {
+                "1": "Jandali",
+                "2": "a teaching assistant",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The family lived on a farm in Germantown, Wisconsin."
+            ],
+            "arguments": {
+                "1": "Germantown",
+                "2": "Wisconsin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Birth\nSchieble became pregnant with Jobs in 1954 when Birth\nSchieble and Jandali spent the summer with his family in Homs, Syria."
+            ],
+            "arguments": {
+                "1": "Homs",
+                "2": "Syria"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Childhood\nPaul and Clara adopted Jobs's sister Patricia in 1957 and the family moved to Mountain View, California, in 1961."
+            ],
+            "arguments": {
+                "1": "Mountain View",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The new house (a three-bedroom home on Crist Drive in Los Altos, California) was in the better Cupertino School District, Cupertino, California, and was embedded in an environment that was even more heavily populated with engineering families than the Mountain View home."
+            ],
+            "arguments": {
+                "1": "Los Altos",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The new house (a three-bedroom home on Crist Drive in Los Altos, California) was in the better Cupertino School District, Cupertino, California, and was embedded in an environment that was even more heavily populated with engineering families than the Mountain View home."
+            ],
+            "arguments": {
+                "1": "Cupertino",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Reed College\nLater in the year, Jobs enrolled at Reed College in Portland, Oregon."
+            ],
+            "arguments": {
+                "1": "Portland",
+                "2": "Oregon"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "After finishing it, Wozniak gave the board to Jobs, who then took the game down to Atari, Inc. in Los Gatos, California."
+            ],
+            "arguments": {
+                "1": "Los Gatos",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In India, Jobs spent a lot of time on bus rides from Delhi to Uttar Pradesh and Himachal Pradesh."
+            ],
+            "arguments": {
+                "1": "Delhi",
+                "2": "India"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "After she returned from her own journey to India, Brennan visited Jobs at his parents' home, where Brennan was still living."
+            ],
+            "arguments": {
+                "1": "India",
+                "2": "Brennan"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1982, Jobs bought an apartment in the two top floors of The San Remo, a Manhattan building with a politically progressive reputation."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "an apartment",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1984, Jobs bought the Jackling House and estate, and resided there for a decade."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "the Jackling House",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The celebration was held at the Louise M. Davies Symphony Hall, San Francisco, California on Wednesday October 12, 1988."
+            ],
+            "arguments": {
+                "1": "San Francisco",
+                "2": "California"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "After NeXT was acquired by Apple Inc. in 1997, WebObjects was used to build and run the Apple Store, MobileMe services, and the iTunes Store."
+            ],
+            "arguments": {
+                "1": "Apple Inc.",
+                "2": "NeXT",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Even Steve Jobs ... oh yeah, Jandali used to come in, and Jandali was a sweet guy and a big tipper.\""
+            ],
+            "arguments": {
+                "1": "Jandali",
+                "2": "a big tipper",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The family lived in Palo Alto, California."
+            ],
+            "arguments": {
+                "1": "Palo Alto",
+                "2": "California"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The Computer TakeBack Campaign responded by flying a banner from a plane over the Stanford University graduation at which Jobs was the commencement speaker."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "the commencement speaker",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Tim Cook, who previously acted as CEO in Jobs's 2004 absence, became acting CEO of Apple\n, with Jobs still involved with \"major strategic decisions\"."
+            ],
+            "arguments": {
+                "1": "Tim Cook",
+                "2": "CEO;acting CEO",
+                "3": "Apple\n",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In April 2009, Jobs underwent a liver transplant at Methodist University Hospital Transplant Institute in Memphis, Tennessee."
+            ],
+            "arguments": {
+                "1": "Memphis",
+                "2": "Tennessee"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "\"Steve wasn't an engineer and \"Steve didn't do any original design...\" Daniel Kottke, one of Apple's earliest employees and a college friend of Jobs, stated that \"Between Woz and Jobs, Woz was the innovator, the inventor."
+            ],
+            "arguments": {
+                "1": "Steve",
+                "2": "an engineer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Macintosh\nOnce he joined the original Macintosh team, Jobs took over the project after Wozniak had experienced a traumatic airplane accident and temporarily left the company."
+            ],
+            "arguments": {
+                "1": "Jobs",
+                "2": "the project",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}

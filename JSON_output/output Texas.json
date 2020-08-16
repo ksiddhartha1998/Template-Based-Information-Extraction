@@ -1,0 +1,468 @@
+{
+    "document": "Texas.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Len, and Tamaulipas to the southwest, while the Gulf of Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "Arkansas",
+                "2": "Oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. DallasFort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "San Antonio",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. DallasFort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Etymology\nThe name Texas, based on the Caddo word tysha (/t'aja/) \"friend\", was applied, in the spelling Tejas or Texas, by the Spanish to the Caddo themselves, specifically the Hasinai Confederacy, the final -s representing the Spanish plural.The Mission San Francisco de los Tejas was completed near the Hasinai village of Nabedaches in May 1690, in what is now Houston County, East Texas."
+            ],
+            "arguments": {
+                "1": "Houston County",
+                "2": "East Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas is in the south central part of the United States of America."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "the United States of America"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Red River forms a natural border with Oklahoma and Arkansas to the north."
+            ],
+            "arguments": {
+                "1": "Arkansas",
+                "2": "Oklahoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "El Paso, on the western end of the state, averages 8.7 inches (220 mm) of annual rainfall, while parts of southeast Texas average as much as 64 inches (1,600 mm) per year."
+            ],
+            "arguments": {
+                "1": "El Paso",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Europeans were Caddoan, Atakapan, Athabaskan, Coahuiltecan and Uto-Aztecan."
+            ],
+            "arguments": {
+                "1": "Caddoan",
+                "2": "Atakapan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Europeans were Caddoan, Atakapan, Athabaskan, Coahuiltecan and Uto-Aztecan."
+            ],
+            "arguments": {
+                "1": "Atakapan",
+                "2": "Athabaskan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "Caddo",
+                "2": "Aranama"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "Aranama",
+                "2": "Comanche"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "Apache",
+                "2": "Atakapan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "Bidai",
+                "2": "Caddo"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Native American tribes that lived inside the boundaries of present-day Texas include the Alabama, Apache, Atakapan, Bidai, Caddo, Aranama, Comanche, Choctaw, Coushatta, Hasinai, Jumano, Karankawa, Kickapoo, Kiowa, Tonkawa, and Wichita."
+            ],
+            "arguments": {
+                "1": "Atakapan",
+                "2": "Bidai"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "When the United States purchased Louisiana from France in 1803, American authorities insisted the agreement also included Texas."
+            ],
+            "arguments": {
+                "1": "the United States",
+                "2": "Louisiana",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Due to its low population, Mexico made the area part of the state of Coahuila y Tejas."
+            ],
+            "arguments": {
+                "1": "Coahuila",
+                "2": "Mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "After Texas's annexation, Mexico broke diplomatic relations with the United States."
+            ],
+            "arguments": {
+                "1": "Texas's annexation",
+                "2": "Mexico"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Senator James Pearce of Maryland drafted the final proposal where Texas ceded its claims to land which later became half of present-day New Mexico, a third of Colorado, and small portions of Kansas, Oklahoma, and Wyoming to the federal government, in return for the assumption of $10 million of the old republic's debt."
+            ],
+            "arguments": {
+                "1": "Colorado",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The final battle of the Civil War was fought near Brownsville, Texas at Palmito Ranch with a Confederate victory."
+            ],
+            "arguments": {
+                "1": "Brownsville",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Railroad networks grew rapidly as did the port at Galveston as commerce between Texas and the rest of the U.S. (and the rest of the world) expanded."
+            ],
+            "arguments": {
+                "1": "Galveston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 10, 1901, the first major oil well in Texas, Spindletop, was found south of Beaumont."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "Spindletop"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 10, 1901, the first major oil well in Texas, Spindletop, was found south of Beaumont."
+            ],
+            "arguments": {
+                "1": "Beaumont",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other fields were later discovered nearby in East Texas, West Texas, and under the Gulf of Mexico."
+            ],
+            "arguments": {
+                "1": "East Texas",
+                "2": "West Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas is notable for its use of capital punishment, having led the country in executions since capital punishment was reinstated in the Gregg v. Georgia case (see Capital punishment in Texas)."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "Georgia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Roscoe Wind Farm in Roscoe, Texas, is one of the world's largest wind farms with a 781.5 megawatt (MW) capacity."
+            ],
+            "arguments": {
+                "1": "Roscoe",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Hispanics in Texas are more likely than in some other states (such as California) to identify as white; according to the 2010 U.S. Census, Texas is home to 6,304,207 White Hispanics and 2,594,206 Hispanics of \"some other race\" (usually mestizo)."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Recently, the Asian population in Texas has grownprimarily in Houston and Dallas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Recently, the Asian population in Texas has grownprimarily in Houston and Dallas."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "San Antonio",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "Austin",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas self-perception\n\"Texas-sized\" is an expression that can be used in two ways: to describe something that is about the size of the U.S. state of Texas, or to describe something (usually but not always originating from Texas) that is large compared to other objects of its type."
+            ],
+            "arguments": {
+                "1": "Texas self-perception",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, The Live Music Capital of the World, boasts \"more live music venues per capita than such music hotbeds as Nashville, Memphis, Los Angeles, Las Vegas or New York City\"."
+            ],
+            "arguments": {
+                "1": "Nashville",
+                "2": "Memphis"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, The Live Music Capital of the World, boasts \"more live music venues per capita than such music hotbeds as Nashville, Memphis, Los Angeles, Las Vegas or New York City\"."
+            ],
+            "arguments": {
+                "1": "Memphis",
+                "2": "Los Angeles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Austin, The Live Music Capital of the World, boasts \"more live music venues per capita than such music hotbeds as Nashville, Memphis, Los Angeles, Las Vegas or New York City\"."
+            ],
+            "arguments": {
+                "1": "Los Angeles",
+                "2": "Las Vegas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "National Research Universities (Tier 1)\nThe University of Texas at Austin\nTexas A&M University\nTexas Tech University\nUniversity of Houston\nThe University of Texas at Arlington\nThe University of Texas at Dallas\nThe University of North Texas\nThe University of Texas at El Paso\nEmerging Research Universities (Tier 2)\nThe University of Texas at San Antonio\nTexas State University\nComprehensive Universities (Tier 3)\nAll other public universities (25 in total)\nTexas's controversial alternative affirmative action plan, Texas House Bill 588, guarantees Texas students who graduated in the top 10 percent of their high school class automatic admission to state-funded universities."
+            ],
+            "arguments": {
+                "1": "Texas's controversial alternative affirmative action plan",
+                "2": "Texas House Bill 588"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The University of Texas at Austin and Texas A&M University are flagship universities of the state of Texas."
+            ],
+            "arguments": {
+                "1": "Austin",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas has two Biosafety Level 4 (BSL-4) laboratories: one at The University of Texas Medical Branch (UTMB) in Galveston, and the other at the Southwest Foundation for Biomedical Research in San Antoniothe first privately owned BSL-4 lab in the United States."
+            ],
+            "arguments": {
+                "1": "Galveston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "San Antonio's South Texas Medical Center facilities rank sixth in clinical medicine research impact in the United States."
+            ],
+            "arguments": {
+                "1": "San Antonio's South Texas Medical Center facilities",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The 2008 Men's Health obesity survey ranked four Texas cities among the top 25 fattest cities in America; Houston ranked 6th, Dallas 7th, El Paso 8th, and Arlington 14th."
+            ],
+            "arguments": {
+                "1": "America",
+                "2": "Houston"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The 2008 Men's Health obesity survey ranked four Texas cities among the top 25 fattest cities in America; Houston ranked 6th, Dallas 7th, El Paso 8th, and Arlington 14th."
+            ],
+            "arguments": {
+                "1": "Dallas 7th",
+                "2": "El Paso 8th"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas had only one city, Austin, ranked 21st, in the top 25 among the \"fittest cities\" in America."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "America"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas had only one city, Austin, ranked 21st, in the top 25 among the \"fittest cities\" in America."
+            ],
+            "arguments": {
+                "1": "Austin",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Largest in Texas by size and passengers served, Dallas/Fort Worth International Airport (DFW) is the second-largest by area in the United States, and fourth in the world with 18,076 acres (73.15 km2)."
+            ],
+            "arguments": {
+                "1": "Dallas/Fort Worth International Airport",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's second-largest air facility served as the largest hub for the former Continental Airlines, which was based in Houston; Texas's second-largest air facility serves as the largest hub for United Airlines, the world's third-largest airline, by passenger-miles flown."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas's second-largest air facility"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Metropolitan Transit Authority of Harris County, Texas (METRO) operates light rail lines in the Houston area."
+            ],
+            "arguments": {
+                "1": "Harris County",
+                "2": "Texas"
+            }
+        }
+    ]
+}

@@ -1,0 +1,861 @@
+{
+    "document": "Berkshire_Hathaway.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States."
+            ],
+            "arguments": {
+                "1": "Nebraska",
+                "2": "United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States."
+            ],
+            "arguments": {
+                "1": "Omaha",
+                "2": "Nebraska"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "The company wholly owns GEICO, Duracell, Dairy Queen, BNSF, Lubrizol, Fruit of the Loom, Helzberg Diamonds, Long & Foster, FlightSafety International, Pampered Chef, and NetJets, and also owns 38.6% of Pilot Flying J; 26.7% of the Kraft Heinz Company, and significant minority holdings in American Express (17.6%), Wells Fargo (9.9%), The Coca-Cola Company (9.4%), Bank of America (6.8%), and Apple (5.22%)."
+            ],
+            "arguments": {
+                "1": "The company",
+                "2": "GEICO",
+                "3": "",
+                "4": "",
+                "5": "American Express"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Since 2016, the company has acquired large holdings in the major US airline carriers, and is currently the largest shareholder in United Airlines and Delta Air Lines, and a top three shareholder in Southwest Airlines and American Airlines."
+            ],
+            "arguments": {
+                "1": "the company",
+                "2": "large holdings",
+                "3": "",
+                "4": "",
+                "5": "Southwest Airlines"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The company is known for its control and leadership by Warren Buffett, who serves as chairman and chief executive, and Charlie Munger, the company's vice chairman."
+            ],
+            "arguments": {
+                "1": "Warren Buffett",
+                "2": "chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The company is known for its control and leadership by Warren Buffett, who serves as chairman and chief executive, and Charlie Munger, the company's vice chairman."
+            ],
+            "arguments": {
+                "1": "Charlie Munger",
+                "2": "chairman",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In the early part of his career at Berkshire, Buffett focused on long-term investments in publicly traded companies, but more recently Buffett has more frequently bought whole companies."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "whole companies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire now owns a diverse range of businesses including confectionery, retail, railroads, home furnishings, encyclopedias, manufacturers of vacuum cleaners, jewelry sales, newspaper publishing, manufacture and distribution of uniforms, and several regional electric and gas utilities."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "a diverse range",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1929, the Valley Falls Company merged with the Berkshire Cotton Manufacturing Company established in 1889, in Adams, Massachusetts."
+            ],
+            "arguments": {
+                "1": "Adams",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1955, Berkshire Fine Spinning Associates merged with the Hathaway Manufacturing Company which had been founded in 1888 in New Bedford, Massachusetts by Horatio Hathaway with profits from whaling and the China Trade."
+            ],
+            "arguments": {
+                "1": "New Bedford",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "However, this put Buffett in a situation where Buffett was now majority owner of a textile business that was failing."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "majority owner",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In the late 1970s, Berkshire acquired an equity stake in the Government Employees Insurance Company (GEICO), which forms the core of its insurance operations today (and is a major source of capital for Berkshire Hathaway's other investments)."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "an equity stake",
+                "3": "",
+                "4": "",
+                "5": "the Government Employees Insurance Company"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Despite its size, Berkshire had for many years not been included in broad stock market indices such as the S&P 500 due to the lack of liquidity in its shares; however, following a 50-to-1 split of Berkshire's class B shares in January 2010, and Berkshire's announcement that Berkshire would acquire the Burlington Northern Santa Fe Corporation, parent of BNSF Railway, Berkshire replaced BNSF in the S&P 500 on February 16, 2010."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "the Burlington Northern Santa Fe Corporation",
+                "3": "",
+                "4": "",
+                "5": "the S&P"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "As of July 13, 2016, Buffett owned 31.7% aggregate voting power of Berkshire's shares outstanding and 18.0% of the economic value of those shares."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "31.7% aggregate voting power",
+                "3": "",
+                "4": "",
+                "5": "July 13, 2016"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berkshire's annual shareholders' meetings take place at the CHI Health Center in Omaha, Nebraska."
+            ],
+            "arguments": {
+                "1": "Omaha",
+                "2": "Nebraska"
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In June 2014, the firm's cash and cash equivalents rose past $50 billion, the first time it finished a quarter above that level since Buffett became chairman and chief executive officer."
+            ],
+            "arguments": {
+                "1": "Buffett",
+                "2": "chairman;chief executive officer",
+                "3": "",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "GEICO  Berkshire acquired GEICO   in January 1996."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "GEICO",
+                "3": "",
+                "4": "",
+                "5": "January 1996"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "GEICO   is headquartered in Chevy Chase, Maryland, and its principal insurance subsidiaries include: Government Employees Insurance Company, GEICO General Insurance Company, GEICO Indemnity Company, and GEICO Casualty Company."
+            ],
+            "arguments": {
+                "1": "Chevy Chase",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Gen Re  Berkshire acquired General Re in December 1998."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "General Re",
+                "3": "",
+                "4": "",
+                "5": "December 1998"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "NRG (Nederlandse Reassurantie Groep)  Berkshire acquired NRG, a Dutch life reinsurance company, from ING Group in December 2007."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "NRG",
+                "3": "",
+                "4": "",
+                "5": "December 2007"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire acquired Fruit of the Loom on April 29, 2002 for $835 million in cash."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "Fruit of the Loom",
+                "3": "$835 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Fruit of the Loom, headquartered in Bowling Green, Kentucky, is a vertically integrated manufacturer of basic clothing."
+            ],
+            "arguments": {
+                "1": "Bowling Green",
+                "2": "Kentucky"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire acquired Russell Corporation on August 2, 2006 for $600 million or $18.00 per share."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "Russell Corporation",
+                "3": "18.00",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Acme, headquartered in Fort Worth, Texas, manufactures and distributes clay bricks (Acme Brick), concrete block (Featherlite) and cut limestone (Texas Quarries)."
+            ],
+            "arguments": {
+                "1": "Fort Worth",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Acme, headquartered in Fort Worth, Texas, manufactures and distributes clay bricks (Acme Brick), concrete block (Featherlite) and cut limestone (Texas Quarries) expanded its building products business in December 2000, when Acme, headquartered in Fort Worth, Texas, manufactures and distributes clay bricks (Acme Brick), concrete block (Featherlite) and cut limestone (Texas Quarries) acquired Benjamin Moore & Co. of Montvale, New Jersey."
+            ],
+            "arguments": {
+                "1": "Montvale",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Acme, headquartered in Fort Worth, Texas, manufactures and distributes clay bricks (Acme Brick), concrete block (Featherlite) and cut limestone (Texas Quarries) expanded its building products business in December 2000, when Acme, headquartered in Fort Worth, Texas, manufactures and distributes clay bricks (Acme Brick), concrete block (Featherlite) and cut limestone (Texas Quarries) acquired Benjamin Moore & Co. of Montvale, New Jersey."
+            ],
+            "arguments": {
+                "1": "Fort Worth",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2001, Berkshire acquired three additional building products companies."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "three additional building products companies",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In February, Berkshire purchased Johns Manville which was established in 1858 and manufactures fiber glass wool insulation products for homes and commercial buildings, as well as pipe, duct and equipment insulation products."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "Johns Manville",
+                "3": "",
+                "4": "",
+                "5": "February"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In July, Berkshire acquired a 90% equity interest in MiTek Inc., which makes engineered connector products, engineering software and services, and manufacturing machinery for the truss fabrication segment of the building components industry and is headquartered in Chesterfield, Missouri."
+            ],
+            "arguments": {
+                "1": "Chesterfield",
+                "2": "Missouri"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In July, Berkshire acquired a 90% equity interest in MiTek Inc., which makes engineered connector products, engineering software and services, and manufacturing machinery for the truss fabrication segment of the building components industry and is headquartered in Chesterfield, Missouri."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "a 90% equity interest",
+                "3": "",
+                "4": "",
+                "5": "MiTek Inc."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Finally in 2001, Berkshire acquired 87 percent of Dalton, Georgia-based Shaw Industries, Inc. Shaw is the world's largest carpet manufacturer based on both revenue and volume of production and designs and manufactures over 3,000 styles of tufted and woven carpet and laminate flooring for residential and commercial use under approximately 30 brand and trade names and under certain private labels."
+            ],
+            "arguments": {
+                "1": "Dalton",
+                "2": "Georgia-based Shaw Industries"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Finally in 2001, Berkshire acquired 87 percent of Dalton, Georgia-based Shaw Industries, Inc. Shaw is the world's largest carpet manufacturer based on both revenue and volume of production and designs and manufactures over 3,000 styles of tufted and woven carpet and laminate flooring for residential and commercial use under approximately 30 brand and trade names and under certain private labels."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "87 percent",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On August 7, 2003, Berkshire acquired Clayton Homes, Inc. Clayton, headquartered near Knoxville, Tennessee, is a vertically integrated manufactured housing company."
+            ],
+            "arguments": {
+                "1": "Knoxville",
+                "2": "Tennessee"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On August 7, 2003, Berkshire acquired Clayton Homes, Inc. Clayton, headquartered near Knoxville, Tennessee, is a vertically integrated manufactured housing company."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "Clayton Homes,",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On May 1, 2008, Mitek acquired Hohmann & Barnard, a fabricator of anchors and reinforcement systems for masonry and on October 3 of that year, Mitek acquired Blok-Lok, Ltd. of Toronto, Canada."
+            ],
+            "arguments": {
+                "1": "Toronto",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On May 1, 2008, Mitek acquired Hohmann & Barnard, a fabricator of anchors and reinforcement systems for masonry and on October 3 of that year, Mitek acquired Blok-Lok, Ltd. of Toronto, Canada."
+            ],
+            "arguments": {
+                "1": "Mitek",
+                "2": "Blok-Lok, Ltd.",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On April 23, 2010, Mitek acquired the assets of Dur-O-Wal from Dayton Superior."
+            ],
+            "arguments": {
+                "1": "Mitek",
+                "2": "the assets",
+                "3": "",
+                "4": "",
+                "5": "Dur-O-Wal"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1996, Berkshire acquired FlightSafety International Inc. (or FSI), founded in 1951 by Albert Lee Ueltschi."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "FlightSafety International Inc.",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "FSI's corporate headquarters is located at LaGuardia Airport in Flushing, New York."
+            ],
+            "arguments": {
+                "1": "Flushing",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire acquired NetJets Inc. in 1998."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "NetJets Inc.",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 2000, Berkshire purchased Ben Bridge Jeweler, a chain of jewelry stores established in 1912 with locations primarily in the western United States."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "Ben Bridge Jeweler",
+                "3": "",
+                "4": "",
+                "5": "the western United States"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2002, Berkshire acquired The Pampered Chef, Ltd., the largest direct seller of kitchen tools in the United States."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "The Pampered Chef, Ltd.",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Dairy Queen, based in Edina, Minnesota, services a system of approximately 6,000 stores operating under the names Dairy Queen, Orange Julius and Karmelkorn."
+            ],
+            "arguments": {
+                "1": "Edina",
+                "2": "Minnesota"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In November 2012, Berkshire announced Berkshire would acquire the Oriental Trading Company, a direct marketing company for novelty items, small toys, and party items."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "the Oriental Trading Company",
+                "3": "",
+                "4": "",
+                "5": "November 2012"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On October 3, 2017, Berkshire was announced that Berkshire Hathaway will acquire 38.6% of truck stop chain Pilot Flying J, with plans to increase its stake to 80% in 2023."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "38.6%",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1977, Berkshire Hathaway purchased the Buffalo Evening News and resumed publication of a Sunday edition of the paper that ceased in 1914."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "the Buffalo Evening News",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2006, the company bought Business Wire, a U.S. press release agency."
+            ],
+            "arguments": {
+                "1": "the company",
+                "2": "Business Wire",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In June 2012, Berkshire purchased 63 newspapers from Media General, including the Richmond Times-Dispatch and Winston-Salem Journal, for $142 million in cash."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "63 newspapers",
+                "3": "$142 million",
+                "4": "",
+                "5": "Media General"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2012, Berkshire bought Texas dailies The Eagle in Bryan-College Station and the Waco Tribune-Herald."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "Texas dailies",
+                "3": "",
+                "4": "",
+                "5": "Bryan-College Station"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2013, the company purchased the Tulsa World, the Greensboro, North Carolina-based News & Record, Virginia's Roanoke Times, and Press of Atlantic City."
+            ],
+            "arguments": {
+                "1": "North Carolina-based News & Record",
+                "2": "Virginia's Roanoke Times"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2013, the company purchased the Tulsa World, the Greensboro, North Carolina-based News & Record, Virginia's Roanoke Times, and Press of Atlantic City."
+            ],
+            "arguments": {
+                "1": "the company",
+                "2": "the Tulsa World",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "As of March 2013, BH Media owned 28 daily and 42 non-daily newspapers."
+            ],
+            "arguments": {
+                "1": "BH Media",
+                "2": "28",
+                "3": "",
+                "4": "",
+                "5": "March 2013"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Berkshire Hathaway Energy's HomeServices of America (see complete list of companies) is a residential real estate brokerage firm based in Minneapolis, Minnesota and founded in 1998."
+            ],
+            "arguments": {
+                "1": "Minneapolis",
+                "2": "Minnesota"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In late June 2017, Berkshire Hathaway indirectly acquired $400 million of the Toronto-based company's common shares as Berkshire Hathaway gave a lifeline to the embattled mortgage lender Home Capital Group Inc."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "$400 million",
+                "3": "$400 million",
+                "4": "",
+                "5": "late June 2017"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2002, Berkshire acquired Albecca Inc. Albecca is headquartered in Norcross, Georgia, and primarily does business under the Larson-Juhl name."
+            ],
+            "arguments": {
+                "1": "Norcross",
+                "2": "Georgia"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire acquired CTB International Corp. in 2002."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "CTB International Corp.",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "CTB, headquartered in Milford, Indiana, is a designer, manufacturer and marketer of systems used in the grain industry and in the production of poultry, hogs, and eggs."
+            ],
+            "arguments": {
+                "1": "Milford",
+                "2": "Indiana"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire acquired McLane Company, Inc. in May 2003 from Walmart, which brought on other subsidiaries such as Professional Datasolutions, Inc. and Salado Sales, among others."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "McLane Company, Inc.",
+                "3": "",
+                "4": "",
+                "5": "Walmart"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Headquartered in Fort Worth, Texas, TTI, Inc. is the largest distributor specialist of passive, interconnect and electromechanical components."
+            ],
+            "arguments": {
+                "1": "Fort Worth",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On December 25, 2007, Berkshire Hathaway acquired Marmon Group."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "Marmon Group",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On November 14, 2014, Berkshire Hathaway announced that Berkshire Hathaway would acquire Duracell from Procter & Gamble for $4.7 billion in an all-stock deal."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "Duracell",
+                "3": "$4.7 billion",
+                "4": "",
+                "5": "Procter & Gamble"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire acquired Clayton Homes, a maker of modular homes, storage trailers, chassis, intermodal piggyback trailers and domestic containers."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "Clayton Homes",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On August 26, 2011, Berkshire Hathaway purchased $5 billion of preferred shares in Bank of America."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "$5 billion",
+                "3": "$5 billion",
+                "4": "",
+                "5": "Bank of America"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2006 Berkshire Hathaway Inc. acquired Russell Corporation for $600 million, in fact getting most shares and brands in many sports leagues  including Spalding NBA official basketballs, BIKE Athletic Company protections, AAI (American Athletic) Gymnastics' tables, bars, rings, horses or Dudley softball balls and accessories."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway Inc.",
+                "2": "Russell Corporation",
+                "3": "$600 million",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2008, Berkshire purchased preferred stock in Wrigley, Goldman Sachs, and GE totaling $14.5 billion."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "preferred stock",
+                "3": "$14.5 billion",
+                "4": "",
+                "5": "Wrigley"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On November 3, 2009, Berkshire Hathaway announced that, using stock and cash totaling $26 billion, Berkshire Hathaway would acquire the remaining 77.4 percent of the Burlington Northern Santa Fe Corporation, parent of BNSF Railway, that Berkshire Hathaway did not already own."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "the remaining 77.4 percent",
+                "3": "$26 billion",
+                "4": "",
+                "5": "BNSF Railway"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On November 3, 2009, Berkshire Hathaway announced that, using stock and cash totaling $26 billion, Berkshire Hathaway would acquire the remaining 77.4 percent of the Burlington Northern Santa Fe Corporation, parent of BNSF Railway, that Berkshire Hathaway did not already own."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "that",
+                "3": "",
+                "4": "",
+                "5": "BNSF Railway"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "On March 14, 2011, Berkshire Hathaway announced that Berkshire Hathaway would acquire the Lubrizol Corporation for $9 billion in cash, a deal that was described as one of the largest deals ever for Berkshire Hathaway."
+            ],
+            "arguments": {
+                "1": "Berkshire Hathaway",
+                "2": "the Lubrizol Corporation",
+                "3": "$9 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Berkshire owns 1.74 million shares of Gannett."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "1.74 million shares",
+                "3": "",
+                "4": "",
+                "5": "Gannett"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In May 2016, it was revealed in a regulatory filing that Berkshire had acquired a stake in Apple Inc."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "a stake",
+                "3": "",
+                "4": "",
+                "5": "Apple Inc."
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "As of February 2019, Berkshire owns 5.4% of Apple with 255,300,329 shares."
+            ],
+            "arguments": {
+                "1": "Berkshire",
+                "2": "5.4%",
+                "3": "",
+                "4": "",
+                "5": "Apple"
+            }
+        }
+    ]
+}
